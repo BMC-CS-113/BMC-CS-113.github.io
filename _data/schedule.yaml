@@ -31,6 +31,7 @@
     - 
       date: 2023-09-12
       title: Lecture 3 <br> I/O (input/output)
+      slides: slides/lecture03.pdf
       assignments:
         - 
           deadline: 2023-09-18
