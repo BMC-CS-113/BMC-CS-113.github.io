@@ -35,7 +35,7 @@
         - 
           deadline: 2023-09-18
           title: "HW01 - Variables & I/O"
-          _url: "hws/HW01.html"
+          url: "hws/HW01.html"
       readings:
         -
           title: "Chapter 3: Input & Output"
