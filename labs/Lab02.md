@@ -133,7 +133,7 @@ In this method, create a new `Scanner` object
 and then use it to read in data from a user.
 
 
-### 2.1 Sum 2 numbers
+### 2.2 Sum 2 numbers
 ```
 /**
 sums two numbers
