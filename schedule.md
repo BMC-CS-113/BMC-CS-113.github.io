@@ -127,7 +127,10 @@ Please complete <a href="{{ site.url }}{{ site.baseurl }}/labs/Lab00.html">Lab00
             {% for assignment in lecture.assignments %}
                 {% if assignment.canceled %}<strike> {% endif %}
                 {% if assignment.optional %}<b>Optional:</b> {% endif %}
-                <a href="{{ assignment.url }}">{{ assignment.title }}</a>
+                {% if assignment.url %}
+               		<a href="{{ assignment.url }}">{{ assignment.title }}</a>
+                {% else %}   {{ assignment.title }}
+		{% endif %}
                 {% if assignment.deadline %} 
                    (Due {{assignment.deadline | date: '%a, %b %-d, %Y' }})
                 {% endif %}
