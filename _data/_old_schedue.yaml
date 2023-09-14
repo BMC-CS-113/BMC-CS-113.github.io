@@ -1,0 +1,336 @@
+- 
+  lectures: 
+    - 
+      date: 2023-01-17
+      title: Lecture 1 <br> Course Introduction <br> Terminal, Compiling
+      slides: slides/lecture01.pdf
+      recording: "https://brynmawr.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa561b4d-2d47-4ee7-a30e-af8d013ddb06"
+      code: "https://github.com/BMC-CS-113/class-examples-s23/tree/main/week1/HelloWorld.java"
+      readings:
+        -
+          title: "Chapter 1"
+          url: ""
+      assignments: 
+        - 
+          title: "Lab00 - Command Line, Unix, Vim"
+          url: "labs/Lab00.html"
+        - 
+          deadline: 2023-01-23
+          title: "HW00 - Hello World, Compile Errors"
+          url: "hws/HW00.html"
+    - 
+      date: 2023-01-19
+      title: Lecture 2 <br> Variables, Data Types, Expressions
+      recording: "https://brynmawr.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91aa9a28-3c5b-4f93-8b0b-af8f012b0b7c"
+      slides: slides/lecture02.pdf
+      assignments: 
+      code: "https://github.com/BMC-CS-113/class-examples-s23/blob/main/week1/Variables.java"
+      readings:
+        -
+          title: "Chapter 2"
+    - 
+      date: 2023-01-24
+      title: "Lecture 3 <br> I/O: Input/Output" 
+      slides: slides/lecture03.pdf
+      code: "https://github.com/BMC-CS-113/class-examples-s23/tree/main/week1"
+      assignments: 
+        - 
+          title: "Lab01 - Variables, Input, Errors"
+          url: "labs/Lab01.html"
+        - 
+          deadline: 2023-02-01
+          title: "HW01 - Variables"
+          url: "hws/HW01.html"
+      readings:
+        -
+          title: "Chapter 3"
+    - 
+      date: 2023-01-26
+      title: Lecture 4 <br> Methods I
+      slides: slides/lecture04.pdf
+      code: "https://github.com/BMC-CS-113/class-examples-s23/tree/main/week2"
+      readings:
+        -
+          title: "Chapter 4"
+    - 
+      date: 2023-01-31
+      title: Lecture 5 <br> Methods II
+      slides: slides/lecture05.pdf
+      readings:
+        -
+          title: "Chapter 4"
+      assignments: 
+        - 
+          title: "Lab02 - Methods"
+          url: "labs/Lab02.html"
+        - 
+          deadline: 2023-02-08
+          title: "HW02 - Methods, Methods, Methods"
+          url: "hws/HW02.html"
+    - 
+      date: 2023-02-02
+      title: Lecture 6 <br> Conditionals & Logic
+      slides: slides/lecture06.pdf
+      readings:
+        -
+          title: "Chapter 5"
+    - 
+      date: 2023-02-03
+      title: Last day to drop a fifth course at Bryn Mawr and Haverford.
+      type: "'deadline'"
+    - 
+      date: 2023-02-07
+      title: Lecture 7 <br> Strings, Objects <br> <s>Recursion</s>
+      slides: slides/lecture07.pdf
+      assignments: 
+        - 
+          title: "Lab03 - Conditionals, Strings, Recursion"
+          url: "labs/Lab03.html"
+      readings:
+        -
+          title: <s>Chapter 6</s>
+        -
+          title: "Chapter 7.10: String Comparison"
+        -
+          title: "Chapter 9.1: Primitives vs Objects"
+    - 
+      date: 2023-02-09
+      title: Lecture 8 <br> Arrays <br> <s>Recursion II</s> 
+      slides: slides/lecture08.pdf
+      readings:
+        -
+          title: <s>Chapter 6</s>
+        -
+          title: "Chapter 8.1 & 8.2"
+        -
+          title: "Chapter 9.2: The null keyword"
+    - 
+      assignments: 
+        - 
+          deadline: 2023-02-16
+          title: "HW03 - Methods, Conditionals, Strings, and Arrays"
+          url: "hws/HW03.html"
+    - 
+      date: 2023-02-14
+      title: Lecture 9 <br> Recursion I <s>Loops</s>
+      slides: slides/lecture09.pdf
+      readings:
+        -
+          title: "Chapter 6"
+      assignments: 
+        - 
+          title: "Lab04 - Arrays, Recursion"
+          url: "labs/Lab04.html"
+    - 
+      date: 2023-02-16
+      title: Lecture 10 <br> Recursion II <br> Loops I <s>Loops II</s>
+      slides: slides/lecture10.pdf
+      readings:
+        -
+          title: "Chapter 7"
+        - 
+          deadline: 2023-02-22
+          title: "HW04 - Recursion"
+          url: "hws/HW04.html"
+    - 
+      date: 2023-02-21
+      title: Lecture 11 <br> Loops II <s>Arrays & References</s>
+      slides: slides/lecture11.pdf
+      assignments: 
+        - 
+          title: "Lab05 - Tic Tac Toe"
+          url: "labs/Lab05.html"
+        - 
+          deadline: 2023-02-27
+          title: "HW05 - Loops"
+          url: "hws/HW05.html"
+      readings:
+        -
+          title: Chapter 7
+        -
+          title: <s>Chapter 8</s>
+    - 
+      date: 2023-02-24
+      slides: slides/lecture03.pdf
+      title: Last day to declare Cr/NC for full semester courses (5 p.m.).
+      slides: ~
+      notebook:  ~
+      completed_notebook: ~
+      type: "'deadline'"
+    -  
+      date: 2023-02-23
+      slides: slides/lecture11.pdf
+      title: Lecture 12 <br> Arrays & References & Objects
+      readings:
+        -
+          title: "Chapter 8"
+        -
+          title: "Chapter 9"
+    - 
+      date: 2023-02-28
+      title: Lecture 13 <br> Review
+      slides: "slides/lecture13.pdf"
+      assignments: 
+        - 
+          title: "Lab05 - Tic Tac Toe"
+          url: "labs/Lab05.html"
+    - 
+      date: 2023-03-02
+      title: Lecture 14 <br> Midterm I
+      type: "'deadline'"
+    - 
+      date: 2023-03-07
+      title: SPRING BREAK
+      type: "'no_lecture'"
+    - 
+      date: 2023-03-09
+      title: SPRING BREAK
+      type: "'no_lecture'"
+  name: "Programming Fundamentals"
+- 
+  lectures: 
+    - 
+      date: 2023-03-14
+      title: Lecture 15 <br> Objects I
+      readings:
+        -
+          title: "Chapter 10"
+      assignments: 
+        - 
+          deadline: 2023-03-20
+          title: "HW06 - Minesweeper"
+          url: "hws/HW06.html"
+        - 
+          title: "Lab06 - Exceptions & Files"
+          url: "labs/Lab06.html"
+      slides: slides/lecture15.pdf
+    - 
+      date: 2023-03-16
+      slides: ~
+      title: Lecture 16 <br> Designing Classes
+      readings:
+        -
+          title: "Chapter 11"
+        -
+          title: "Chapter 12.1 - 12.6 (inclusive)"
+      slides: slides/lecture16.pdf
+    - 
+      date: 2023-03-21
+      slides: ~
+      title: Lecture 17 <br> Designing Classes <br> Class Hierarchy (Inheritance & Interfaces)
+      readings:
+        -
+          authors:
+          title: "Chapter 14"
+        -
+          title: "Chapter 17.4"
+        -
+          title: "Chapter 17.7"
+      slides: slides/lecture17.pdf
+      assignments: 
+        - 
+          title: "Lab07 - Designing Classes"
+          url: "labs/Lab07.html"
+      slides: "slides/lecture17.pdf"
+    - 
+      date: 2023-03-23
+      slides: "slides/lecture18.pdf"
+      title: Lecture 18 <br> <s>More classes & Objects</s> <br> Relationships!
+      readings:
+        -
+          title: "Chapter 16"
+      assignments:
+        - 
+          deadline: <s>2023-03-30</s> 2023-04-03
+          title: "HW07 - Object Oriented Programming"
+          url: "hws/HW07.html"
+    - 
+      date: 2023-03-28
+      title: Lecture 19 <br> Interfaces (class actions!) <br> <s>Searching</s> 
+      readings:
+        -
+          authors:
+          title: "Chapter 12.7-12.9"
+      slides: "slides/lecture19.pdf"
+      assignments: 
+        - 
+          title: "Lab08 - Interfaces & Sorting"
+          url: "labs/Lab08.html"
+  name: "Object-Oriented Programming (OOP)"
+- 
+  lectures: 
+    - 
+      date: 2023-03-30
+      slides: "slides/lecture20.pdf"
+      title: Lecture 20 <br> Searching <s>& Sorting</s> 
+      readings:
+        -
+          authors:
+          title: "Chapter 13"
+    - 
+      date: 2023-04-04
+      title: Lecture 21 <br> Binary Search <br> <s> Sorting <br> Runtime Analysis</s>
+      slides: "slides/lecture21.pdf"
+      readings:
+        -
+          title: "Chapter 13"
+      assignments: 
+        - 
+          title: "No LAB TODAY"
+    - 
+      date: 2023-04-06
+      title: PASSOVER <br> NO CLASS
+      type: "'no_lecture'"
+    - 
+      date: 2023-04-11
+      slides: "slides/lecture22.pdf"
+      assignments: 
+        - 
+          title: "Lab09 Review"
+          url: "labs/Lab09.html"
+      title: Lecture 22 <br> <s>Selection Sort</s> <br> <s>Runtime Analysis</s> <br> Midterm Review (remote lecture)
+    - 
+      date: 2023-04-13
+      title: Lecture 23 <br> Midterm II
+      type: "'deadline'"
+      assignments: 
+        - 
+          title: "HW08 - Vet Clinic"
+          url: "hws/HW08.html"
+          deadline: 2023-04-21
+    - 
+      date: 2023-04-18
+      title: Lecture 23 <br> Bubble Sort <br> Selection Sort <br> <s>2D & Jagged arrays</s>
+      slides: "slides/lecture23.pdf"
+      readings:
+         -
+           title: "Chapter 15"
+      assignments: 
+        - 
+          title: "Lab10 - Sorting"
+          url: "labs/Lab10.html"
+    - 
+      date: 2023-04-20
+      title: Lecture 24 <br> Run Time Analysis
+      slides: "slides/lecture24.pdf"
+    - 
+      date: 2023-04-25
+      title: Lecture 25 <br> Run Time Analysis <br> <s>Testing Code (JUnit) <br> Regular Expressions</s>
+      assignments: 
+        - 
+          title: "Lab11 - RunTime"
+          url: "labs/Lab11.html"
+        - 
+          title: "HW09 - SuperDuperArray"
+          url: "hws/HW09.html"
+          deadline: 2023-04-28
+      slides: "slides/lecture25.pdf"
+    - 
+      date: 2023-04-27
+      title: Lecture 26 <br> Review
+      slides: "slides/lecture26.pdf"
+    - 
+      date: 2023-05-03
+      title: Final 9:30am-12:30pm (Park 300)
+      type: "'exam'"
+  name: "Searching & Sorting"
