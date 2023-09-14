@@ -69,14 +69,14 @@ For each of the follow programs, draw a stack diagram to trace out what happens 
 
 ### 1.1 Add
 ```
-  public static int Add(int a, int b) {
+  public static int add(int a, int b) {
     int result = a + b;
     return result; 
   }
   public static void main(String[] args) {
     int a = 4;
     int b = 8;
-    int c = Add(b, a);
+    int c = add(b, a);
     System.out.printf("%d + %d = %d\n", a, b, c);
   }
 
@@ -88,7 +88,7 @@ For each of the follow programs, draw a stack diagram to trace out what happens 
 ### 1.2 Add2
 
 ```
-  public static int Add(int a, int b) {
+  public static int add(int a, int b) {
     a = 2;
     int result = a + b;
     return result; 
@@ -96,7 +96,7 @@ For each of the follow programs, draw a stack diagram to trace out what happens 
   public static void main(String[] args) {
     int a = 4;
     int b = 8;
-    int c = Add(a, b);
+    int c = add(a, b);
     System.out.printf("%d + %d = %d\n", a, b, c);
   }
 ```
