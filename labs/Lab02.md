@@ -104,14 +104,14 @@ For each of the follow programs, draw a stack diagram to trace out what happens 
 <br>
 <br>
 
-**Checkpoint:** Before continung, have your TA review your stack diagrams with you.
+**Checkpoint:** Before continuing, have your TA review your stack diagrams with you.
 
 
 ## 2. Average.java
 
 Last week we asked a user for numbers and computed the sum of the numbers. This week we will compute the average of a set of numbers. Instead of implementing our entire algorithm in the main method, we will break out program down into multiple methods.
 
-In 2.1 - 2.x, you will be creating simple methods based on the documentation we provide below.
+In 2.1 - 2.5, you will be creating simple methods based on the documentation we provide below.
 
 > Make sure to test each method individually in your main method before moving onto the next method.
 
@@ -129,11 +129,8 @@ Asks user for a number
 public static double getUserNumber()
 ``` 
 
-<details><summary><b style="color:DodgerBlue;">HINT</b></summary>
-You can use the `Scanner` class for reading in data from a user. 
-
-
-</details> 
+In this method, create a new `Scanner` object 
+and then use it to read in data from a user.
 
 
 ### 2.1 Sum 2 numbers
@@ -170,7 +167,9 @@ public static double sum(double a, double b, double c)
 
 **Question:** What is different between the methods in 2.2 and 2.3?  
 
-> Try calling `sum(double a, double b)` when implementing this new function `sum(double a, double b, double c).
+> When implementing this new function `sum(double a, double b, double c)`,
+you should call the 
+`sum(double a, double b)` method you created in 2.2 
 
 ### 2.4 Average
 ```
@@ -239,7 +238,8 @@ character has 9 letters, a is the #3 letter in the character
 
 ## Wrap up
 
-In todays lab we covered methods.
+In todays lab we covered methods and you had more practice working
+with the `Scanner` class.
 
 ### Signing out
 Before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
