@@ -69,6 +69,7 @@
     - 
       date: 2023-09-21
       title: Lecture 6 <br> Booleans & Conditionals
+      slides: slides/lecture06.pdf
       readings:
         -
           title: "Chapter 5: Conditionals & Logic"
