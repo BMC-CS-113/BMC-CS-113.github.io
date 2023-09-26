@@ -85,8 +85,8 @@
       assignments:
         - 
           deadline: 2023-10-02
-          title: "HW03 - Conditionals & Methods"
-          _url: "hws/HW01.html"
+          title: "HW03 - Conditionals, Methods, & Strings"
+          url: "hws/HW03.html"
       readings:
         -
           title: "Chapter 6: Recursive Methods"
