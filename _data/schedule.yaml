@@ -93,19 +93,19 @@
           _url: "https://greenteapress.com/thinkjava7/html/chapter-05.html"
     - 
       date: 2023-09-28
-      title: Lecture 8 <br> Strings as Objects <br> Arrays I
+      title: Lecture 8 <br> <s>Strings as Objects</s> <br> Recursion <br> Arrays I 
       slides: slides/lecture08.pdf
       assignments:
         - 
-          title: "Lab04 - Recursion & String methods"
-          _url: "hws/HW00.html"
+          title: "Lab04 - Recursion & Arrays"
+          url: "labs/Lab04.html"
       readings:
         -
           title: "Chapter 7: Objects: Strings"
           _url: "https://greenteapress.com/thinkjava7/html/chapter-05.html"
     - 
       date: 2023-10-03
-      title: Lecture 9 <br> Arrays II
+      title: Lecture 9 <br> Strings as Objects <br> Arrays II 
       assignments:
         - 
           deadline: 2023-10-09
