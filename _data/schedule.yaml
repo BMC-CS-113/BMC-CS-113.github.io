@@ -94,6 +94,7 @@
     - 
       date: 2023-09-28
       title: Lecture 8 <br> Strings as Objects <br> Arrays I
+      slides: slides/lecture08.pdf
       assignments:
         - 
           title: "Lab04 - Recursion & String methods"
