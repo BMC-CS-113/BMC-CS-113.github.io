@@ -99,6 +99,10 @@
         - 
           title: "Lab04 - Recursion & Arrays"
           url: "labs/Lab04.html"
+        - 
+          title: "Project 1 - BlackJack"
+          url: "hws/BlackJack.html"
+          deadline: 2023-10-09
       readings:
         -
           title: "Chapter 7: Objects: Strings"
