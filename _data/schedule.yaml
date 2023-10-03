@@ -110,6 +110,7 @@
     - 
       date: 2023-10-03
       title: Lecture 9 <br> Strings as Objects <br> Arrays II 
+      slides: slides/lecture09.pdf
       assignments:
         - 
           deadline: 2023-10-09
