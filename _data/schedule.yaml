@@ -114,7 +114,7 @@
         - 
           deadline: 2023-10-09
           title: "HW04 - Arrays & Recursion"
-          _url: "hws/HW01.html"
+          url: "hws/HW04.html"
       readings:
         -
           title: "Chapter 8: Arrays and References"
