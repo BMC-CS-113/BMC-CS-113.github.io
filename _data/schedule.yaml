@@ -100,7 +100,7 @@
           title: "Lab04 - Recursion & Arrays"
           url: "labs/Lab04.html"
         - 
-          title: "Project 1 - BlackJack"
+          title: "<s>Project 1 - BlackJack</s>"
           url: "hws/BlackJack.html"
           deadline: 2023-10-09
       readings:
@@ -132,6 +132,11 @@
         - 
           title: "Lab05 - Recursion with Arrays"
           url: "labs/Lab05.html"
+        - 
+          title: "HW05 - BlackJack"
+          url: "hws/HW05.html"
+          deadline: 2023-10-30
+      readings:
     - 
       date: 2023-10-10
       title: Lecture 11 <br> Loops I <br> Review
