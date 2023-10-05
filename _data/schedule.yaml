@@ -129,8 +129,8 @@
       readings: ~
       assignments:
         - 
-          title: "Lab05 - Exceptions & Files"
-          _url: "hws/HW00.html"
+          title: "Lab05 - Recursion with Arrays"
+          url: "labs/Lab05.html"
     - 
       date: 2023-10-10
       title: Lecture 11 <br> Loops I <br> Review
