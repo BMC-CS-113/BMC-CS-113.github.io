@@ -109,7 +109,7 @@
           _url: "https://greenteapress.com/thinkjava7/html/chapter-05.html"
     - 
       date: 2023-10-03
-      title: Lecture 9 <br> Strings as Objects <br> Arrays II 
+      title: Lecture 9 <br> <s>Strings as Objects</s> <br> Arrays II 
       slides: slides/lecture09.pdf
       assignments:
         - 
@@ -125,8 +125,8 @@
           _url: "https://greenteapress.com/thinkjava7/html/chapter-09.html#sec113"
     - 
       date: 2023-10-05
-      title: Lecture 10 <br> Recursion II 
-      slides: slides/lecture09.pdf
+      title: Lecture 10 <br> Recursion II <br> Strings as Objects
+      slides: slides/lecture10.pdf
       readings: ~
       assignments:
         - 
@@ -139,7 +139,8 @@
       readings:
     - 
       date: 2023-10-10
-      title: Lecture 11 <br> Loops I <br> Review
+      title: Lecture 11 <br> <s>Loops I</s> Arrays as Objects <br> Review
+      slides: slides/lecture11.pdf
       assignments:
         - 
           deadline: 2023-10-30
