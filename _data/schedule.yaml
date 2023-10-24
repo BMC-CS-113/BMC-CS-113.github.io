@@ -144,7 +144,7 @@
       assignments:
         - 
           deadline: 2023-10-30
-          title: "HW05 - Battleship!"
+          title: "<s>HW05 - Battleship!</s>"
           _url: "hws/HW01.html"
       readings:
         -
@@ -153,10 +153,6 @@
       date: 2023-10-12
       title: Lecture 12 <br> Midterm
       readings: ~
-      assignments:
-        - 
-          title: "Lab06 - Loops, 2-D Arrays, Tic Tac Toe, Reading Files (Exceptions)"
-          _url: "hws/HW00.html"
     - 
       date: 2023-10-17
       title: Fall Break
@@ -167,11 +163,23 @@
       type: "'no_lecture'"
     - 
       date: 2023-10-24
-      title: Lecture 13 <br> Loops II <br> Growing Arrays
+      title: Lecture 13 <br> Loops I<s>I</s> <br> <s>Growing</s> 2D Arrays
       assignments:
       readings:
         -
           title: "Chapter 9: Loops"
+        -
+          title: "Chapter 15.3: 2 Dimensional Arrays"
+    - 
+      date: 2023-10-26
+      title: Lecture 14 <br> <s>Immutable vs Mutables</s> <br> <s>Classes vs Objects</s> <br> Loops II <br> Expanding Arrays
+      readings:
+        -
+          title: "Chapter 9: Loops"
+      assignments:
+        - 
+          title: "Lab06 - Loops, 2-D Arrays, Tic Tac Toe, <s>Reading Files (Exceptions)</s>"
+          _url: "hws/HW00.html"
   name: "Programming Fundamentals"
 - 
   lectures: 
