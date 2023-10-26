@@ -180,13 +180,13 @@
       assignments:
         - 
           title: "Lab06 - Loops, 2-D Arrays, Tic Tac Toe, <s>Reading Files (Exceptions)</s>"
-          _url: "hws/HW00.html"
+          url: "labs/Lab06.html"
   name: "Programming Fundamentals"
 - 
   lectures: 
     - 
-      date: 2023-10-26
-      title: Lecture 14 <br> Immutable vs Mutables <br> Classes vs Objects
+      date: 2023-10-31
+      title: Lecture 15 <br> Immutable vs Mutables <br> Classes vs Objects
       readings:
         -
           title: "Chapter 10: Immutable Objects"
@@ -199,8 +199,8 @@
           title: "Lab07 - Class Design"
           _url: "hws/HW00.html"
     - 
-      date: 2023-10-31
-      title: Lecture 15 <br> Class Design
+      date: 2023-11-02
+      title: Lecture 16 <br> Class Design
       assignments:
         - 
           deadline: 2023-11-06
@@ -211,8 +211,8 @@
           title: "Chapter 12: Designing Classes"
           _url: "https://greenteapress.com/thinkjava7/html/chapter-09.html"
     - 
-      date: 2023-11-02
-      title: Lecture 16 <br> Arrays of Objects
+      date: 2023-11-07
+      title: Lecture 17 <br> Arrays of Objects
       assignments:
         - 
           title: "Lab08 - Collection of Objects"
@@ -222,8 +222,8 @@
           title: "Chapter 13: Arrays of Ojbects (everything up to 12.7)"
           _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html"
     - 
-      date: 2023-11-07
-      title: Lecture 17 <br> Relationships! (Inheritance)
+      date: 2023-11-09
+      title: Lecture 18 <br> Relationships! (Inheritance)
       assignments:
         - 
           deadline: 2023-11-17
@@ -233,8 +233,8 @@
         - 
           title: "Chapter 15: Extending Classes"
     - 
-      date: 2023-11-09
-      title: Lecture 18 <br> Class Actions (Interfaces)
+      date: 2023-11-14
+      title: Lecture 19 <br> Class Actions (Interfaces)
       readings:
         -
           title: "Chapter 18.7: Interfaces"
