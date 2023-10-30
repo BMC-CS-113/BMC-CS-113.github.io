@@ -187,7 +187,7 @@
   lectures: 
     - 
       date: 2023-10-31
-      title: Lecture 15 <br> Immutable vs Mutables <br> Classes vs Objects
+      title: Lecture 15 <br> Expanding Arrays <br> Immutable vs Mutables <br> Classes vs Objects
       readings:
         -
           title: "Chapter 10: Immutable Objects"
@@ -197,15 +197,15 @@
           _url: "https://greenteapress.com/thinkjava7/html/chapter-10.html"
       assignments:
         - 
-          title: "Lab07 - Class Design"
-          _url: "hws/HW00.html"
+          deadline: 2023-11-06
+          title: "HW06 - Loops"
+          url: "hws/HW06.html"
     - 
       date: 2023-11-02
       title: Lecture 16 <br> Class Design
       assignments:
         - 
-          deadline: 2023-11-06
-          title: "HW06 - Simple Class Design/OOP"
+          title: "Lab07 - Files & Exceptions"
           _url: "hws/HW00.html"
       readings:
         -
