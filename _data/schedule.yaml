@@ -222,9 +222,6 @@
       title: Lecture 17 <br> Arrays of Objects
       assignments:
         - 
-          title: "Lab08 - Collection of Objects"
-          _url: "hws/HW00.html"
-        - 
           deadline: 2023-11-20
           title: "HW07 - Class design"
       readings:
@@ -237,6 +234,9 @@
       readings:
         - 
           title: "Chapter 15: Extending Classes"
+      assignments:
+        - 
+          title: "Lab08 - Collection of Objects"
     - 
       date: 2023-11-14
       title: Lecture 19 <br> Class Actions (Interfaces)
