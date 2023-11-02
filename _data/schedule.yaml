@@ -204,10 +204,15 @@
     - 
       date: 2023-11-02
       title: Lecture 16 <br> Class Design
+      slides: slides/lecture16.pdf
       assignments:
         - 
           title: "Lab07 - Files & Exceptions"
           url: "labs/Lab07.html"
+        - 
+          deadline: 2023-11-13
+          title: "HW07 - Board Game"
+          _url: "hws/HW00.html"
       readings:
         -
           title: "Chapter 12: Designing Classes"
@@ -219,6 +224,9 @@
         - 
           title: "Lab08 - Collection of Objects"
           _url: "hws/HW00.html"
+        - 
+          deadline: 2023-11-20
+          title: "HW07 - Class design"
       readings:
         -
           title: "Chapter 13: Arrays of Ojbects (everything up to 12.7)"
@@ -226,11 +234,6 @@
     - 
       date: 2023-11-09
       title: Lecture 18 <br> Relationships! (Inheritance)
-      assignments:
-        - 
-          deadline: 2023-11-17
-          title: "HW07 - Big OOP Polymorphism assignment"
-          _url: "hws/HW00.html"
       readings:
         - 
           title: "Chapter 15: Extending Classes"
