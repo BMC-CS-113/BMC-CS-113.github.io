@@ -249,13 +249,6 @@
           title: "Lab09 - Interfaces"
           _url: "hws/HW00.html"
     - 
-      date: 2023-11-14
-      title: Lecture 19 <br> Searching
-      readings:
-        -
-          title: "Chapter 13.7: Sequential Search"
-          _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html#sec152"
-    - 
       date: 2023-11-16
       title: Lecture 20 <br> Review
       assignments:
@@ -273,6 +266,13 @@
   lectures: 
     - 
       date: 2023-11-28
+      title: Lecture 19 <br> Searching
+      readings:
+        -
+          title: "Chapter 13.7: Sequential Search"
+          _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html#sec152"
+    - 
+      date: 2023-11-30
       title: Lecture 22 <br> Binary Search
       assignments:
         - 
@@ -284,13 +284,13 @@
           title: "Chapter 13.8: Binary Search"
           _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html#sec153"
     - 
-      date: 2023-11-30
+      date: 2023-12-05
       title: Lecture 23 <br> Sorting
       assignments:
         - 
           title: "Lab11 - Sorting"
     - 
-      date: 2023-12-05
+      date: 2023-12-07
       title: Lecture 24 <br> Run time
       assignments:
         - 
@@ -302,14 +302,11 @@
           title: "Chapter 13: Objects of Arrays"
           url: "https://greenteapress.com/thinkjava7/html/chapter-13.html"
     - 
-      date: 2023-12-07
+      date: 2023-12-12
       title: Lecture 25 <br> Run time
       assignments:
         - 
           title: "Lab12 - Runtime"
-    - 
-      date: 2023-12-12
-      title: Lecture 26 <br> Faster Sorting
     - 
       date: 2023-12-14
       title: Lecture 27 <br> Review
