@@ -212,7 +212,7 @@
         - 
           deadline: 2023-11-13
           title: "HW07 - Board Game"
-          _url: "hws/HW00.html"
+          url: "hws/HW07.html"
       readings:
         -
           title: "Chapter 12: Designing Classes"
