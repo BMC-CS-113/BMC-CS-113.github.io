@@ -220,10 +220,7 @@
     - 
       date: 2023-11-07
       title: Lecture 17 <br> Arrays of Objects
-      assignments:
-        - 
-          deadline: 2023-11-20
-          title: "HW07 - Class design"
+      slides: slides/lecture17.pdf
       readings:
         -
           title: "Chapter 13: Arrays of Ojbects (everything up to 12.7)"
@@ -248,6 +245,9 @@
         - 
           title: "Lab09 - Interfaces"
           _url: "hws/HW00.html"
+        - 
+          deadline: 2023-11-20
+          title: "HW07 - Class design"
     - 
       date: 2023-11-16
       title: Lecture 20 <br> Review
