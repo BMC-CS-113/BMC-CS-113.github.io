@@ -69,7 +69,7 @@ Before leaving the lab, make sure you fill out the attendance sheet and go throu
 In this lab you will be designing a student's course schedule. You will be creating two files, `Course.java` and `Schedule.java`. By the end of this lab, you will have written a program to read in a file containing a students schedule, parse the file, and create `Course` objects and a schedule. 
 
 **TODO:** Download the file `schedule.csv` from the course website. Run `wget 
-{{{{ site.url }}{{ site.baseurl }}/labs/lab08/schedule.csv`
+{{ site.url }}{{ site.baseurl }}/labs/lab08/schedule.csv`
 to download the file.
 
 
