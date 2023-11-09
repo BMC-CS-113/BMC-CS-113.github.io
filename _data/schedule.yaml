@@ -228,6 +228,7 @@
     - 
       date: 2023-11-09
       title: Lecture 18 <br> Relationships! (Inheritance)
+      slides: slides/lecture18.pdf
       readings:
         - 
           title: "Chapter 15: Extending Classes"
