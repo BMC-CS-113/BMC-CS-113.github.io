@@ -238,28 +238,28 @@
           url: "labs/Lab08.html"
     - 
       date: 2023-11-14
-      title: Lecture 19 <br> Class Actions (Interfaces)
+      title: Lecture 19 <br> <s>Class Actions (Interfaces)</s> <br> CANCELLED
       readings:
         -
           title: "Chapter 18.7: Interfaces"
           _url: "https://greenteapress.com/thinkjava7/html/chapter-17.html#sec206"
       assignments:
         - 
-          title: "Lab09 - Interfaces"
-          _url: "hws/HW00.html"
-        - 
           deadline: 2023-11-20
           title: "HW07 - Class design"
     - 
       date: 2023-11-16
-      title: Lecture 20 <br> Review
+      title: Lecture 20 <br> <s>Review</s> <br> Class Actions (Interfaces)
+      readings:
+        -
+          title: "Chapter 18.7: Interfaces"
       assignments:
         - 
-          title: "Lab10 - Review"
+          title: "Lab09 - Interfaces"
           _url: "hws/HW00.html"
     - 
       date: 2023-11-21
-      title: Lecture 21 <br> Midterm
+      title: Lecture 21 <br> <s>Midterm</s>
     - 
       date: 2023-11-23
       title: THANKSGIVING
@@ -275,7 +275,7 @@
           _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html#sec152"
     - 
       date: 2023-11-30
-      title: Lecture 22 <br> Binary Search
+      title: Lecture 22 <br> Midterm <br> <s>Binary Search</s>
       assignments:
         - 
           deadline: 2023-12-06
@@ -287,14 +287,13 @@
           _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html#sec153"
     - 
       date: 2023-12-05
-      title: Lecture 23 <br> Sorting
+      title: Lecture 23 <br> <s>Sorting</s> <br> Binary Search
+    - 
+      date: 2023-12-07
+      title: Lecture 24 <br> <s>Run time</s> <br> Sorting
       assignments:
         - 
           title: "Lab11 - Sorting"
-    - 
-      date: 2023-12-07
-      title: Lecture 24 <br> Run time
-      assignments:
         - 
           deadline: 2023-12-14
           title: "HW09 - Runtime"
