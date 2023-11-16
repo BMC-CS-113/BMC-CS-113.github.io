@@ -245,8 +245,9 @@
           _url: "https://greenteapress.com/thinkjava7/html/chapter-17.html#sec206"
       assignments:
         - 
-          deadline: 2023-11-20
-          title: "HW07 - Class design"
+          deadline: 2023-11-22
+          title: "HW08 - Class design"
+          url: "hws/HW07.html"
     - 
       date: 2023-11-16
       title: Lecture 20 <br> <s>Review</s> <br> Class Actions (Interfaces)
