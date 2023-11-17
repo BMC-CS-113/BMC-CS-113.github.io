@@ -239,7 +239,6 @@
     - 
       date: 2023-11-14
       title: Lecture 19 <br> <s>Class Actions (Interfaces)</s> <br> CANCELLED
-      slides: slides/lecture19.pdf
       readings:
         -
           title: "Chapter 18.7: Interfaces"
@@ -252,6 +251,7 @@
     - 
       date: 2023-11-16
       title: Lecture 20 <br> <s>Review</s> <br> Class Actions (Interfaces)
+      slides: slides/lecture19.pdf
       readings:
         -
           title: "Chapter 18.7: Interfaces"
@@ -259,40 +259,35 @@
         - 
           title: "Lab09 - Interfaces"
           url: "labs/Lab09.html"
-    - 
-      date: 2023-11-21
-      title: Lecture 21 <br> <s>Midterm</s>
-    - 
-      date: 2023-11-23
-      title: THANKSGIVING
   name: "Object Oriented Programming"
 - 
   lectures: 
     - 
+      date: 2023-11-21
+      title: Lecture 21 <br> <s>Midterm</s> <br> Searching
+    - 
+      date: 2023-11-23
+      title: THANKSGIVING
+    - 
       date: 2023-11-28
-      title: Lecture 19 <br> Searching
+      title: Lecture 22 <br> Binary Searching 
       readings:
         -
-          title: "Chapter 13.7: Sequential Search"
-          _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html#sec152"
+          title: "Chapter 13.8: Binary Search"
     - 
       date: 2023-11-30
-      title: Lecture 22 <br> Midterm <br> <s>Binary Search</s>
+      title: Lecture 23 <br> Midterm <br> <s>Binary Search</s>
       assignments:
         - 
           deadline: 2023-12-06
           title: "HW08 - SuperDuper Array"
           _url: "hws/HW01.html"
-      readings:
-        -
-          title: "Chapter 13.8: Binary Search"
-          _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html#sec153"
     - 
       date: 2023-12-05
-      title: Lecture 23 <br> <s>Sorting</s> <br> Binary Search
+      title: Lecture 24 <br> Sorting
     - 
       date: 2023-12-07
-      title: Lecture 24 <br> <s>Run time</s> <br> Sorting
+      title: Lecture 25 <br> Run time
       assignments:
         - 
           title: "Lab11 - Sorting"
@@ -306,7 +301,7 @@
           url: "https://greenteapress.com/thinkjava7/html/chapter-13.html"
     - 
       date: 2023-12-12
-      title: Lecture 25 <br> Run time
+      title: Lecture 26 <br> Run time
       assignments:
         - 
           title: "Lab12 - Runtime"
