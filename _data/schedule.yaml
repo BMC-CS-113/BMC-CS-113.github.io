@@ -265,6 +265,7 @@
     - 
       date: 2023-11-21
       title: Lecture 21 <br> <s>Midterm</s> <br> Searching
+      slides: slides/lecture21.pdf
       readings:
         -
           title: "Chapter 13"
