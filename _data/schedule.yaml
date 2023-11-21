@@ -223,7 +223,7 @@
       slides: slides/lecture17.pdf
       readings:
         -
-          title: "Chapter 13: Arrays of Ojbects (everything up to 12.7)"
+          title: "Chapter 13: Arrays of Ojbects (everything up to 13.7)"
           _url: "https://greenteapress.com/thinkjava7/html/chapter-12.html"
     - 
       date: 2023-11-09
@@ -247,7 +247,7 @@
         - 
           deadline: 2023-11-22
           title: "HW08 - Class design"
-          url: "hws/HW07.html"
+          url: "hws/HW08.html"
     - 
       date: 2023-11-16
       title: Lecture 20 <br> <s>Review</s> <br> Class Actions (Interfaces)
@@ -265,6 +265,13 @@
     - 
       date: 2023-11-21
       title: Lecture 21 <br> <s>Midterm</s> <br> Searching
+      readings:
+        -
+          title: "Chapter 13"
+      assignments:
+        - 
+          title: "HW09 - OOP"
+          url: "hws/HW09.html"
     - 
       date: 2023-11-23
       title: THANKSGIVING
@@ -279,8 +286,8 @@
       title: Lecture 23 <br> Midterm <br> <s>Binary Search</s>
       assignments:
         - 
-          deadline: 2023-12-06
-          title: "HW08 - SuperDuper Array"
+          deadline: 2023-12-14
+          title: "HW10 - SuperDuper Array"
           _url: "hws/HW01.html"
     - 
       date: 2023-12-05
@@ -291,9 +298,6 @@
       assignments:
         - 
           title: "Lab11 - Sorting"
-        - 
-          deadline: 2023-12-14
-          title: "HW09 - Runtime"
           _url: "hws/HW01.html"
       readings:
         -
