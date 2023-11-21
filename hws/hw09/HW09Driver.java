@@ -8,7 +8,7 @@ public class HW08Driver {
     * @param args the arguments (not used)
     */
    public static void main(String[] args) {
-      Vet avet = new Vet(3, "Pets R Us");
+      Vet avet = new Vet(12, "Pets R Us");
 
       System.out.printf("avet is a type of database: %b\n",avet instanceof Database);
       Pet p;
