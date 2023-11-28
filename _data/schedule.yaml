@@ -279,7 +279,8 @@
       title: THANKSGIVING
     - 
       date: 2023-11-28
-      title: Lecture 22 <br> Binary Searching 
+      title: Lecture 22 <br> Midterm Review <br> Binary Searching 
+      slides: slides/lecture22.pdf
       readings:
         -
           title: "Chapter 13.8: Binary Search"
