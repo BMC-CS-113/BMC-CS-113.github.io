@@ -288,7 +288,7 @@
         - 
           deadline: 2023-12-14
           title: "HW10 - SuperDuper Array"
-          _url: "hws/HW01.html"
+          url: "hws/HW10.html"
     - 
       date: 2023-12-05
       title: Lecture 24 <br> <s>Sorting</s> <br> Binary Search
