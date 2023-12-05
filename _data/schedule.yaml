@@ -301,8 +301,8 @@
       title: Lecture 25 <br> <s>Run time</s> <br> Sorting
       assignments:
         - 
-          title: "Lab11 - Sorting"
-          _url: "hws/HW01.html"
+          title: "Lab10 - Sorting"
+          url: "labs/Lab10.html"
       readings:
         -
           title: "Chapter 13: Objects of Arrays"
