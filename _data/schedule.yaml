@@ -310,9 +310,7 @@
     - 
       date: 2023-12-12
       title: Lecture 26 <br> Run time
-      assignments:
-        - 
-          title: "Lab12 - Runtime"
+      slides: slides/lecture26.pdf
     - 
       date: 2023-12-14
       title: Lecture 27 <br> Review
