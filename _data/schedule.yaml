@@ -314,6 +314,7 @@
     - 
       date: 2023-12-14
       title: Lecture 27 <br> Review
+      slides: slides/lecture27.pdf
       assignments:
         - 
           title: "Lab11 - Runtime"
