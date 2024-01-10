@@ -32,7 +32,7 @@ Each student must submit each homework independently, but you are encouraged to 
 
 #### Late days
 By default, we will not be accepting any late assignments. Because of the course's fast pace and weekly assignment schedule, it will be very easy to fall behindif you regularly submit assignments late.
-However, emergencies and unforseen circumstances inevitably arise. If you are requesting an extension for an unforseen emergency, please email Adam. Briefly state why you are requesting the extension and a proposed date for submitting the assignment. Poor planning or heavy work loads in other courses are not valid reasons for extensions.
+However, emergencies and unforseen circumstances inevitably arise. If you are requesting an extension for an unforseen emergency, please email the professor. Briefly state why you are requesting the extension and a proposed date for submitting the assignment. Poor planning or heavy work loads in other courses are not valid reasons for extensions.
  
 ### Labs
 There are weekly labs. Attending lab is part of your grade. The labs are designed to be a space where you will get more experience programming. Lab grade is based purely on effort. You are allowed to miss at-least one lab. Labs will not be recorded.

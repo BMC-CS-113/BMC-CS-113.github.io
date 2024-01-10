@@ -45,20 +45,21 @@ Course number
 : CMSC B113 - students from all majors are welcome!
 
 Instructor
-: [Adam Poliak](http://azpoliak.github.io)
+: [Elizabeth Dinella](https://www.seas.upenn.edu/~edinella/)
 
 Teaching Assistants
 : [Course Staff](staff.html) 
 
 Website 
-: [https://cs.brynmawr.edu/Courses/cs113/fall2023ap/](https://cs.brynmawr.edu/Courses/cs113/fall2023ap/)
+: [https://cs.brynmawr.edu/Courses/cs113/spring2024/](https://cs.brynmawr.edu/Courses/cs113/spring2024/)
 
 Discussion Forum
-: [Piazza](https://piazza.com/brynmawr/spring2023/cs113)
+: [Piazza](https://piazza.com/class/lr6qql9edie6ye)
 
 Time and place
-: Spring 2023, TTH 12:55-2:15pm, Location: Park 245
-: Lab T: 2:25-3:45pm, Location: Park 231
+: Spring 2024
+: TTH 12:55-2:15pm, Location: Park 231
+: Lab TH: 2:25-3:45pm, Location: Park 231
 
 Office Hours
 : <a href="{{ site.url }}{{ site.baseurl }}/office-hours.html">Times</a>
