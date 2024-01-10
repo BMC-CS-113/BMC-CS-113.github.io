@@ -84,10 +84,11 @@ General Schedule
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">Adam Poliak<br>Park 200C</td>
-    <td class="tg-c3ow">Monday <br> Tuesday </td>
-    <td class="tg-c3ow">2:45-4:00pm <br> 9:30-10:45am</td>
+    <td class="tg-c3ow">Elizabeth Dinella<br>Park 205</td>
+    <td class="tg-c3ow">Tuesday <br> Friday </td>
+    <td class="tg-c3ow">2:15-3:15pm <br> 10-11am (Zoom)</td>
   </tr>
+<!--
   <tr>
     <td class="tg-c3ow">Maha Attique<br></td>
     <td class="tg-c3ow">Monday<br>Wednesday</td>
@@ -123,6 +124,7 @@ General Schedule
     <td class="tg-c3ow">Thursday</td>
     <td class="tg-c3ow">8-10pm</td>
   </tr>
+-->
 </tbody>
 </table>
 
