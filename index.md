@@ -50,9 +50,6 @@ Instructor
 Teaching Assistants
 : [Course Staff](staff.html) 
 
-Website 
-: [https://cs.brynmawr.edu/Courses/cs113/spring2024/](https://cs.brynmawr.edu/Courses/cs113/spring2024/)
-
 Discussion Forum
 : [Piazza](https://piazza.com/class/lr6qql9edie6ye)
 
