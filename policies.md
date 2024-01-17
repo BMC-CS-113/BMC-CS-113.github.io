@@ -7,7 +7,7 @@ active_tab: Policies
 # Policies
 
 ### Disclaimer
-These policies are subject to change until the beginning of the semester and throughout the remainder of the course, at the judgement of the course staff.
+These policies are subject to change until the beginning of the semester and throughout the remainder of the course, at the judgment of the course staff.
 
 All times listed on the course webpage are in Eastern Standard Time (EST).
 
@@ -19,20 +19,20 @@ The course staff will be holding regular office hours. We have listed their time
 
 The [Q-Center](https://www.brynmawr.edu/inside/offices-services/q-center) is a great resource as well. You can book an appointment [online](https://brynmawr.mywconline.net/).
 
-More acadmeic support, e.g. [peer mentors](https://www.brynmawr.edu/inside/offices-services/academic-support/academic-student-support-services/peer-mentors), [academic coaches](https://www.brynmawr.edu/inside/offices-services/academic-support/resources), and others, can be found at [https://www.brynmawr.edu/academicsupport/academic-and-student-support-services](https://www.brynmawr.edu/academicsupport/academic-and-student-support-services). Students are encouraged to reach out to the Director of Academic Support to explore effective learning, studying, test-taking, note-taking and time and stress management strategies that are essential to success in this course and college life. Students can schedule a meeting with the Director of Academic Support by visiting the Office of Academic Support website.
+More academic support, e.g. [peer mentors](https://www.brynmawr.edu/inside/offices-services/academic-support/academic-student-support-services/peer-mentors), [academic coaches](https://www.brynmawr.edu/inside/offices-services/academic-support/resources), and others, can be found at [https://www.brynmawr.edu/academicsupport/academic-and-student-support-services](https://www.brynmawr.edu/academicsupport/academic-and-student-support-services). Students are encouraged to reach out to the Director of Academic Support to explore effective learning, studying, test-taking, note-taking and time and stress management strategies that are essential to success in this course and college life. Students can schedule a meeting with the Director of Academic Support by visiting the Office of Academic Support website.
 
 
 ### Materials
 The main text is a free online textbook called [ThinkJava]() that has been modified for CS113.
 
 ### Homework
-Homework assignments are a required part of the course. Homeworks will be released at the latest Tuesday evenings and will be due the following Monday evening.
+Homework assignments are a required part of the course. Homeworks will be released at the latest Sunday evenings and will be due the following Thursday evening.
 Each student must submit each homework independently, but you are encouraged to discuss problems with other students and course staff. 
 
 
 #### Late days
-By default, we will not be accepting any late assignments. Because of the course's fast pace and weekly assignment schedule, it will be very easy to fall behindif you regularly submit assignments late.
-However, emergencies and unforseen circumstances inevitably arise. If you are requesting an extension for an unforseen emergency, please email the professor. Briefly state why you are requesting the extension and a proposed date for submitting the assignment. Poor planning or heavy work loads in other courses are not valid reasons for extensions.
+Homeworks may be submitted a maximum of two days late. After two days, the submission will be closed and assignments will no longer be accepted. For each day your assignment is late, 20 points will be deducted.
+However, emergencies and unforeseen circumstances inevitably arise. If you are requesting an extension for an unforeseen emergency, please email the professor. Briefly state why you are requesting the extension and a proposed date for submitting the assignment. Poor planning or heavy work loads in other courses are not valid reasons for extensions.
  
 ### Labs
 There are weekly labs. Attending lab is part of your grade. The labs are designed to be a space where you will get more experience programming. Lab grade is based purely on effort. You are allowed to miss at-least one lab. Labs will not be recorded.
@@ -66,7 +66,7 @@ As you progress in this course, you will see that programming is a creative proc
 * Exams, of course, must be your own individual work.
 
 
-### Academic Accomodations
+### Academic Accommodations
 
 All classes will be recorded and close-captioned. Links to lectures will be posted on the course webpage.
 
