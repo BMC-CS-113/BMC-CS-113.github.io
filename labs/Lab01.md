@@ -84,14 +84,14 @@ cd lab01
 ```
 
 To confirm this works, you should see something like
-`apoliak@julia:~/cs113/labs/lab01$ ` on the command prompt.
-You will hopefully see your username instead of `apoliak` and different
-name after the `@` symbol besides for `julia`. Lab00 explains what the second
+`edinella@goldengate:~/cs113/labs/lab01$ ` on the command prompt.
+You will hopefully see your username instead of `edinella` and different
+name after the `@` symbol besides for `goldengate`. Lab00 explains what the second
 name means.
 
 Another way to confirm you followed the steps above correctly is to run 
-`pwd`. You should the see something like `/home/apoliak/cs113/labs/lab01` (where
-again it will say your username rather than `apoliak`.
+`pwd`. You should the see something like `/home/edinella/cs113/labs/lab01` (where
+again it will say your username rather than `edinella`.
 
 ## 1. Expressions 
 
