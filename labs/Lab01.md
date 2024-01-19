@@ -68,7 +68,7 @@ This lab is a **paired programming assignment.** What exactly does that mean? Yo
 
 ### Finishing the lab
 
-Before leaving the lab, make sure you fill out the attendance sheet and go through your answers with a TA or instructor.
+Before leaving the lab, make sure you go through your answers with a TA or instructor.
 
 ## 0. CS Lab Machine Setup
 Hopefully you completed Lab00 so far. If not, then run the following commands on the terminal 
@@ -204,7 +204,7 @@ Here are som helpful resources:
 ## 2. Sum.java
 
 > Note: The next few problems will require asking the user for information, storing the information, and then doing something with it.
-> Look at slide 8 from the 2nd lecture on how to read in what the user writes in the console.
+> Look at slide 6 from the 2nd lecture on how to read in what the user writes in the console.
 
 ### Sum1
 
