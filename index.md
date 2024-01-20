@@ -53,6 +53,9 @@ Teaching Assistants
 Discussion Forum
 : [Piazza](https://piazza.com/class/lr6qql9edie6ye)
 
+Code Samples From Lecture 
+: [Github](https://github.com/BMC-CS-113/class-examples-s24)
+
 Time and place
 : Spring 2024
 : TTH 12:55-2:15pm, Location: Park 231
