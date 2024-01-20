@@ -3,7 +3,8 @@
     - 
       date: 2024-01-23
       title: Lecture 1 <br> Course Introduction <br> Terminal, Compiling
-      #slides: slides/lecture01.pdf
+      slides: slides/lecture01.pdf
+
       assignments: 
        - 
           title: "Lab00 - CS Lab Machines 101: Command Line (Do before Lab on Thursday)"
@@ -16,7 +17,7 @@
     - 
       date: 2024-01-25
       title: Lecture 2 <br> Data Types (Ints, doubles, strings)
-      #slides: slides/lecture02.pdf
+      slides: slides/lecture02.pdf
       readings:
         -
           title: "Chapter 2: Variables & Operators"
