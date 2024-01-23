@@ -164,43 +164,6 @@ Each row in the table below represents an expression. Please fill in the **value
 </tbody>
 </table>
 
-## 2. VIM editor
-
-_credit: Swarthmore CS21 Lab 0_
-
-This semester wewill use the vim editor for editing files on our system. You will primarily use vim to create and edit files containing the python program code to run on our system.
-
-The `vi` and `vim` (Vi IMproved) editors are available on every Unix system. `vim` is an efficient and lightweight text editor that is easy to use after learning a few basic commands, which you can learn by running though the `vimtutor` tutorial.
-
-`vim` is particularly useful when working remotely over an ssh connection (an ssh connection is
-how you will connect to the lab machines remotely).
-
-`vim` also has many advanced features and is very configurable through, e.g., the use of a `.vimrc` file. However, just a few basic commands are enough to get you started.
-
-<b>Creating and opening a file in Vim</b>
-
-Start by typing `vim example.txt`. This will create a new file called
-`example.txt` and will open it up in vim.
-
-<b>Vim operates in two modes:</b>
-1. <b>insert mode</b>: keystrokes are interpreted as inserts into the file contents at the point of the cursor.
-2. <b>command or escape mode</b>: keystrokes are interpreted as vim commands, which allow a user to do such things as saving, exiting, searching, or moving around in the file.
-
-To switch from <i>insert mode</i> to <i>command mode</i>, press the ESC key.
-
-There are many ways to switch from <i>command mode</i> to <i>insert mode</i>. One way is to press the `i` key.
-
-To save a file make sure you are in <i>command mode</i>. Then type <i>:</i>, this will allow you to run a command. Then type <i>wq</i>. This will
-save the changes to the file and then quit the file.
-
-**Some Vim Resources and Links**
-
-Here are som helpful resources:
-
-- [vi (and vim) quick reference](https://www.cs.swarthmore.edu/~newhall/unixhelp/viquickref.pdf)
-- [vim links and references](https://www.cs.swarthmore.edu/~newhall/unixlinks.html#edit)
-- [Swathmore CS help pages vim info](https://www.cs.swarthmore.edu/newhelp/vim.html)
-
 ## 2. Sum.java
 
 > Note: The next few problems will require asking the user for information, storing the information, and then doing something with it.
