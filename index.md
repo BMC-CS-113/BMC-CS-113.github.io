@@ -61,9 +61,6 @@ Time and place
 : TTH 12:55-2:15pm, Location: Park 231
 : Lab TH: 2:25-3:45pm, Location: Park 231
 
-Office Hours
-: <a href="{{ site.url }}{{ site.baseurl }}/office-hours.html">Times</a>
-
 Prerequisites
 : None - no prior programming background is required
 
