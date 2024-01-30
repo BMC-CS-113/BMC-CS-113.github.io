@@ -39,7 +39,7 @@
     -
       date: 2024-01-30
       title: Lecture 3 <br> I/O (input/output)
-      #slides: slides/lecture03.pdf
+      slides: slides/lecture03.pdf
       assignments: ~
           #- 
           #deadline: 2024-02-08
