@@ -50,15 +50,7 @@
           title: "Chapter 3: Input & Output"
           #url: "https://greenteapress.com/thinkjava7/html/chapter-03.html"
     -
-      date: 2024-02-04
-      #slides: slides/lecture03.pdf
-      assignments:
-        -
-          deadline: 2024-02-08
-          title: "HW01 - Variables & I/O"
-              #url: "hws/HW01.html"
-    -
-
+    
       date: 2024-02-01
       title: Lecture 4 <br> Methods I
       #slides: slides/lecture04.pdf
@@ -70,7 +62,17 @@
         - 
           title: "Lab02 - I/O & Methods"
               #url: "labs/Lab02.html"
+
+    -
+      date: 2024-02-04
+      #slides: slides/lecture03.pdf
+      assignments:
+        -
+          deadline: 2024-02-08
+          title: "HW01 - Variables & I/O"
+              #url: "hws/HW01.html"
     - 
+
       date: 2024-02-06
       title: Lecture 5 <br> Methods II
       #slides: slides/lecture05.pdf
