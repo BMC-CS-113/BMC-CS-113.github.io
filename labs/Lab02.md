@@ -209,7 +209,7 @@ The average of your numbers is 3.5
 
 ## 3. Strings
 
-In class we saw how to use Math methods. Now we will look at a few `String` methods. 
+Now we will look at a few `String` methods. 
 
 If we have a `String`, we can determine the following information:
 
