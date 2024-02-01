@@ -53,7 +53,7 @@
     
       date: 2024-02-01
       title: Lecture 4 <br> Methods I
-      #slides: slides/lecture04.pdf
+      slides: slides/lecture04.pdf
       readings:
         -
           title: "Chapter 4: Methods & Testing"
