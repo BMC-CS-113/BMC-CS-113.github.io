@@ -151,7 +151,7 @@ If the user inputs a number that is not between 1 and 12 (inclusive), then make 
 
 ## 3.2 Month Name to Quarter
 
-Write a program that inputs a month as a string and returns the quarter number that the month is in. For example, if we call the function with the month "January", the program should print 1.
+Write a program that inputs a month as a string and returns the quarter number that the month is in. For example, if we call the function with the month "January", the program should print 1. If the number is not between 1 and 12, print an error message.
 
 > Requirement: Make sure you use a `switch/case` statement here rather than an if/else.
 > Make sure to read section 5.4 of the textbook first.
