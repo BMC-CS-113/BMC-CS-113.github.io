@@ -163,7 +163,7 @@ Write the following methods in a file named `StringExamples.java`. Test the meth
 
 ## 4.1 Even Length
 
-Write a method, `isEvenLength`, which returns true if the given String has an even number of characters and false otherwise. Use the ternary operator. Implement tests in main to check your answer. For example,
+Write a method, `isEvenLength`, which returns true if the given String has an even number of characters and false otherwise. Implement tests in main to check your answer. For example,
 
 - `isEvenLength("cat")` returns false
 
