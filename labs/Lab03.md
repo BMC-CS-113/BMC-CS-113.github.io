@@ -154,8 +154,6 @@ If the user inputs a number that is not between 1 and 12 (inclusive), then make 
 Write a program that inputs a month as a string and returns the quarter number that the month is in. For example, if we call the function with the month "January", the program should print 1. If the number is not between 1 and 12, print an error message.
 
 > Requirement: Make sure you use a `switch/case` statement here rather than an if/else.
-> Make sure to read section 5.4 of the textbook first.
-
 
 # 4. Strings
 
@@ -163,7 +161,7 @@ Write the following methods in a file named `StringExamples.java`. Test the meth
 
 ## 4.1 Even Length
 
-Write a method, `isEvenLength`, which returns true if the given String has an even number of characters and false otherwise.  Implement tests in main to check your answer. For example,
+Write a method, `isEvenLength`, which returns true if the given String has an even number of characters and false otherwise. Implement tests in main to check your answer. For example,
 
 - `isEvenLength("cat")` returns false
 
