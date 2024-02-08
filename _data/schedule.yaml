@@ -85,7 +85,7 @@
     - 
       date: 2024-02-08
       title: Lecture 6 <br> Booleans & Conditionals
-      #slides: slides/lecture06.pdf
+      slides: slides/lecture06.pdf
       readings:
         -
           title: "Chapter 5: Conditionals & Logic"
@@ -93,7 +93,7 @@
       assignments:
         - 
           title: "Lab03 - Conditionals & String Methods"
-              #url: "labs/Lab03.html"
+          url: "labs/Lab03.html"
 
     -
         date: 2024-02-11
