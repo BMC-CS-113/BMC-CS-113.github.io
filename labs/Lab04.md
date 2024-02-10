@@ -74,10 +74,9 @@ Below we are going to implement this together. The following questions will help
 
 #### Overview of approach
 
-In class we motivated recursion by discussing a lazy way to do the dishes, i.e. wash one dish, then ask someone to wash the rest of the dishes. 
 <br>
 <br>
-**Question 1:** How would we extend that analogy to this situation here of finding the sum of all the numbers in a string?
+**Question 1:** Look at our class code for `ContainsLetter` to find if a char exists in a string. How does this relate to finding the sum of all the numbers in a string?
 
 <br><br><br>
 
