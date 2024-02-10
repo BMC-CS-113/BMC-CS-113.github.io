@@ -283,9 +283,9 @@ The following steps are out of order, put them in the correct order.
 3. Determine the distance between the 2rd character and `a` or `A`
 4. Determine the distance between the 4rd character and `a` or `A`
 5. Update the value of the 5th index of the array
-5.  Update the value of the 3rd index of the array
-5.  Determine the distance between the 5th character and `a` or `A`
-6. Initialize an emtpy integer array of length 5
+5. Update the value of the 3rd index of the array
+5. Determine the distance between the 5th character and `a` or `A`
+6. Initialize an empty integer array of length 5
 6. Determine the distance between the 1st character and `a` or `A`
 7.  Update the value of the 2nd index of the array
 8. Update the value of the 1st index of the array
