@@ -296,6 +296,8 @@ Now that you correctly ordered the steps of the algorithm, its time to implement
 
 **QUESTION::** Implement the method and then run the tests you wrote earlier in the main method to test your implementation.
 
+You can use the `printList` recursive method we wrote in class to view the output of distances. 
+
 
 ### Signing out
 Before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
