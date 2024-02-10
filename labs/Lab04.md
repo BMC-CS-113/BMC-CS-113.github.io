@@ -109,9 +109,6 @@ Look at the example on page 105 of the textbook.
 
 **Question 5:** Given the character `1`, how can we get the integer value `1`
 
-<details><summary><b style="color:DodgerBlue;">HINT</b></summary>
-What is the ASCII value of `'0'`, what about `'9'`? You can look them up here: https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html</details>
-<br><br>
 
 **Question 6:** Given the String `1234`, how can we get the substring `234`?
 
