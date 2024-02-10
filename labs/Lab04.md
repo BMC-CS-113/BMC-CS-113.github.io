@@ -199,6 +199,7 @@ In the main method, lets invokes this method multiple times. Each time we will p
 |   "AbCdE"  <br> <br> |    |
 |   "zyxvw"  <br> <br> |    |
 
+Check with the TAs that you correctly understand the specification.
 
 ### 3.3 Algorithm
 
