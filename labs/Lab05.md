@@ -116,7 +116,7 @@ Now that you implemented tests, make sure to run them.
 Do your tests pass, i.e does the method return the value you expect each time? 
 
 If so, add the following `4` tests to your main.
-- `sumArray([2,3,4)` should return 9
+- `sumArray([2,3,4])` should return 9
 - `sumArray([2,2,2,2])` should return 8
 - `sumArray([1,9,8,0,2])` should return 20
 - `sumArray([0,0,0,2,0])` should return 2
