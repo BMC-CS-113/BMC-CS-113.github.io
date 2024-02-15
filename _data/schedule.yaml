@@ -70,12 +70,12 @@
         -
           deadline: 2024-02-08
           title: "HW01 - Variables & I/O"
-              #url: "hws/HW01.html"
+          url: "hws/HW01.html"
     - 
 
       date: 2024-02-06
       title: Lecture 5 <br> Methods II
-      #slides: slides/lecture05.pdf
+      slides: slides/lecture05.pdf
       assignments: ~
         
       readings:
@@ -85,7 +85,7 @@
     - 
       date: 2024-02-08
       title: Lecture 6 <br> Booleans & Conditionals
-      #slides: slides/lecture06.pdf
+      slides: slides/lecture06.pdf
       readings:
         -
           title: "Chapter 5: Conditionals & Logic"
@@ -93,19 +93,19 @@
       assignments:
         - 
           title: "Lab03 - Conditionals & String Methods"
-              #url: "labs/Lab03.html"
+          url: "labs/Lab03.html"
 
     -
         date: 2024-02-11
         assignments:
           -
-            deadline: 2024-02-15
+            deadline: 2024-02-18
             title: "HW02 - I/O & Methods"
-            #url: "hws/HW02.html"
+            url: "hws/HW02.html"
             
     - 
       date: 2024-02-13
-      title: Lecture 7 <br> Recursion
+      title: <s> Lecture 7 <br> Recursion </s>
       #slides: slides/lecture07.pdf
       assignments: ~
         
@@ -115,12 +115,12 @@
               #url: "https://greenteapress.com/thinkjava7/html/chapter-06.html"
     - 
       date: 2024-02-15
-      title: Lecture 8 <br> Strings as Objects 
-      #slides: slides/lecture08.pdf
+      title: Lecture 8 <br> Recursion 
+      slides: slides/lecture08.pdf
       assignments:
         - 
           title: "Lab04 - Recursion & Arrays"
-              #url: "labs/Lab04.html"
+          url: "labs/Lab04.html"
         
               #url: "hws/HW04.html"
           #title: "<s>Project 1 - BlackJack</s>"
@@ -140,7 +140,7 @@
 
     -
       date: 2024-02-20
-      title: Lecture 9 <br> Arrays I
+      title: Lecture 9 <br>  Strings as Objects <br> Arrays I
       #slides: slides/lecture09.pdf
       assignments: ~
               

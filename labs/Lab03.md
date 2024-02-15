@@ -55,17 +55,6 @@ You can download the materials for this assignment here:
 The main goals for this lab are for you to get more comfortable with conditionals and string methods.
 
 
-### Paired Programming rules
-
-This lab is a **paired programming assignment.** What exactly does that mean? You will be working in pairs on the CS lab computers. Each pair will be working on one computer. One person will be the **driver** and the other person will be the **navigator**. Here is the rule: the **driver** controlls the lab computer, but the **driver** can only type what the **navigator** tells them to type. For this to work well, each pair should be constantly talking among themselves. After each problem, you will switch roles, the navigator will become the driver and the driver will become the navigator.
-
-> **Switching Partners Next Week**
-> This is your last week working with your current partner. Next week you will working with a new partner for the next 3 weeks. Enjoy the last lab with this partner!
-
-### Finishing the lab
-
-Before leaving the lab, make sure you fill out the attendance sheet and go through your answers with a TA or instructor.
-
 ## 1. Expressions 
 
 Each row in the table below represents an expression. Please fill in the **value** and **types** for each expression.
