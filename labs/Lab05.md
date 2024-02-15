@@ -55,18 +55,6 @@ You can download the materials for this assignment here:
 The main goals for this lab are for you to get more comfortable with 
 recursion and arrays.
 
-
-### Paired Programming rules
-
-This lab is a **paired programming assignment.** What exactly does that mean? You will be working in pairs on the CS lab computers. Each pair will be working on one computer. One person will be the **driver** and the other person will be the **navigator**. Here is the rule: the **driver** controlls the lab computer, but the **driver** can only type what the **navigator** tells them to type. For this to work well, each pair should be constantly talking among themselves. After each problem, you will switch roles, the navigator will become the driver and the driver will become the navigator.
-
-> **Switching Partners This Week**
-> Please find a new partner. You will working with this partner for the next 3 weeks. In 3 weeks time we will switch partners again.
-
-### Finishing the lab
-
-Before leaving the lab, make sure you fill out the attendance sheet and go through your answers with a TA or instructor.
-
 <br><br>
 
 We are going to implement methods in a class called `RecursiveArray.java`.
@@ -128,17 +116,17 @@ Now that you implemented tests, make sure to run them.
 Do your tests pass, i.e does the method return the value you expect each time? 
 
 If so, add the following `4` tests to your main.
-- `sum([2,3,4)` should return 9
-- `sum([2,2,2,2])` should return 8
-- `sum([1,9,8,0,2])` should return 20
-- `sum([0,0,0,2,0])` should return 2
+- `sumArray([2,3,4])` should return 9
+- `sumArray([2,2,2,2])` should return 8
+- `sumArray([1,9,8,0,2])` should return 20
+- `sumArray([0,0,0,2,0])` should return 2
 
 After these tests pass, you should be confident that your implementation is correct!
 
 ## 2 Product of numbers
 Given an array of integers, write a method called `product` that returns the product of all the numbers in the array. `product` should have one parameter, the string of numbers. Your solution should be recursive.
 
-For example `product([1,2,3,4])` should return 24 (good catch!). 
+For example `product([1,2,3,4])` should return 24. 
 
 Use the same procedure we outlined in the previous question to complete this problem.
 
