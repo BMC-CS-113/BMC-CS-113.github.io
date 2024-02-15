@@ -105,7 +105,7 @@
             
     - 
       date: 2024-02-13
-      title: Lecture 7 <br> Recursion
+      title: ~Lecture 7 <br> Recursion~
       #slides: slides/lecture07.pdf
       assignments: ~
         
@@ -115,7 +115,7 @@
               #url: "https://greenteapress.com/thinkjava7/html/chapter-06.html"
     - 
       date: 2024-02-15
-      title: Lecture 8 <br> Strings as Objects 
+      title: Lecture 8 <br> Recursion 
       #slides: slides/lecture08.pdf
       assignments:
         - 
@@ -140,7 +140,7 @@
 
     -
       date: 2024-02-20
-      title: Lecture 9 <br> Arrays I
+      title: Lecture 9 <br>  Strings as Objects <br> Arrays I
       #slides: slides/lecture09.pdf
       assignments: ~
               
