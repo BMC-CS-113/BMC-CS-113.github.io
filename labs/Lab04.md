@@ -68,7 +68,7 @@ As discussed in class, recursion is the process of a method invoking itself over
 ### 1.2 Sum of numbers
 Given a String of numbers, write a method called `sum` that returns the sum of all the numbers in the String. `sum` should have one parameter, the string of numbers 
 
-For example `sum(1234)` should return 10. 
+For example `sum("1234")` should return 10. 
 
 Below we are going to implement this together. The following questions will help guide you. 
 
@@ -123,15 +123,15 @@ Now we are ready to combine these answers to implement our recursive step right 
 
 In your main method, test `sum()` by invoking the method with the following arugments:
 
-- `sum(234)` should return 9
-- `sum(2222)` should return 8
-- `sum(19802)` should return 20
-- `sum(00020)` should return 2
+- `sum("234")` should return 9
+- `sum("2222")` should return 8
+- `sum("19802")` should return 20
+- `sum("00020")` should return 2
 
 ### 1.3 Product of numbers
-Given a String of numbers, write a method called `product` that returns the sum of all the numbers in the String. `product` should have one parameter, the string of numbers
+Given a String of numbers, write a method called `product` that returns the product of all the numbers in the String. `product` should have one parameter, the string of numbers
 
-For example `product(1234)` should return 12.
+For example `product("1234")` should return 24.
 
 ## 2. Arrays
 
