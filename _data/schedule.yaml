@@ -141,7 +141,7 @@
     -
       date: 2024-02-20
       title: Lecture 9 <br>  Strings as Objects <br> Arrays I
-      #slides: slides/lecture09.pdf
+      slides: slides/lecture09.pdf
       assignments: ~
               
       readings:
