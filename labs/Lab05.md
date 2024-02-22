@@ -128,6 +128,8 @@ Given an array of integers, write a method called `product` that returns the pro
 
 For example `product([1,2,3,4])` should return 24. 
 
+If an array contains only one number it should return the value of that one number. For example `product([4])` should return 4.
+
 Use the same procedure we outlined in the previous question to complete this problem.
 
 ## 3 Keep letters

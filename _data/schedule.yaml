@@ -136,12 +136,12 @@
         - 
           deadline: 2024-02-22
           title: "HW03 - Conditionals, Methods, & Strings"
-          #url: "hws/HW03.html"
+          url: "hws/HW03.html"
 
     -
       date: 2024-02-20
       title: Lecture 9 <br>  Strings as Objects <br> Arrays I
-      #slides: slides/lecture09.pdf
+      slides: slides/lecture09.pdf
       assignments: ~
               
       readings:
