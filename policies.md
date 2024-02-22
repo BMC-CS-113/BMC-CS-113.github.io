@@ -31,17 +31,11 @@ Each student must submit each homework independently, but you are encouraged to 
 
 
 #### Late days
-Homeworks may be submitted a maximum of two days late. After two days, the submission will be closed and assignments will no longer be accepted. For each day your assignment is late, 20 points will be deducted.
+Homeworks may be submitted a maximum of two days late. After two days, the submission will be closed and assignments will no longer be accepted. For each day your assignment is late, 10 points will be deducted.
 However, emergencies and unforeseen circumstances inevitably arise. If you are requesting an extension for an unforeseen emergency, please email the professor. Briefly state why you are requesting the extension and a proposed date for submitting the assignment. Poor planning or heavy work loads in other courses are not valid reasons for extensions.
  
 ### Labs
-There are weekly labs. Attending lab is part of your grade. The labs are designed to be a space where you will get more experience programming. Lab grade is based purely on effort. You are allowed to miss at-least one lab. Labs will not be recorded.
-
-
-#### Dropped Homeworks and Labs
-To account for issues that arise in these uncertain times, we 
-will drop your lowest homework and and lowest lab. However,
-we will not drop a homework grade for HW05, HW07, or HW08.
+There are weekly labs. The labs are designed to be a space where you will get more experience programming.
 
 ### Academic Integrity 
 
