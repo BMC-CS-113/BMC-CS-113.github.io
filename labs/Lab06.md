@@ -220,3 +220,6 @@ In todays lab we covered arrays and top-down design.
 
 ### Signing out
 Before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
+
+###Autograder Formating
+The autograder test a checkInput method with an int parameter which tests whether input to the game is valid and returns a boolean. A toString() method should return a string which displays the board at the current game state. Players should be represented by integers 1 and 2, and method winner() should return which player won, or a 0 if there was a tie. 
