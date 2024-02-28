@@ -124,7 +124,7 @@ If so, add the following `4` tests to your main.
 After these tests pass, you should be confident that your implementation is correct!
 
 ## 2 Product of numbers
-Given an array of integers, write a method called `product` that returns the product of all the numbers in the array. `product` should have one parameter, the string of numbers. Your solution should be recursive.
+Given an array of integers, write a method called `product` that returns the product of all the numbers in the array. `product` should have one parameter, the array of numbers. Your solution should be recursive.
 
 For example `product([1,2,3,4])` should return 24. 
 
