@@ -189,8 +189,8 @@
       -
           title: "Chapter 9: Loops"
 
-      assignments:
-      - 
+              #assignments:
+          #- 
         #title: "Lab06 - Loops, 2-D Arrays, Tic Tac Toe, <s>Reading Files (Exceptions)</s>"
               #url: "labs/Lab06.html"
               #url: "hws/HW06.html"
@@ -236,7 +236,7 @@
           #deadline: 2024-03-21
     - 
       date: 2024-03-19
-      title: Lecture 15 Arrays  of Arrays 
+      title: Lecture 15 Arrays of Arrays 
       #slides: slides/lecture15.pdf
       readings:
         -
