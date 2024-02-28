@@ -221,4 +221,4 @@ In todays lab we covered arrays and top-down design.
 ### Signing out
 Before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
 
-The autograder tests a checkInput(String text) method which tests whether input to the game is valid and returns a boolean. Players should be represented by integers 1 and -1, and method winner() should return which player won, or a 0 if there was a tie. There should be a method updateBoard(int x, int y) which is used to update the game board. 
+The autograder tests a checkInput(String text) method which tests whether input to the game is valid and returns a boolean. Players should be represented by integers 1 and -1. Player 1 should have the first turn. The method winner() should return which player won, or a 0 if there was a tie. There should be a method void updateBoard(int x, int y) which is used to update the game board. 
