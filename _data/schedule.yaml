@@ -342,10 +342,10 @@
         -
             title: "Chapter 13.8: Binary Search"
             #url: "https://greenteapress.com/thinkjava7/html/chapter-13.8.html"
-       assignments:
+      assignments:
         - 
           title: "Lab09 - Interfaces"
-              #url: "labs/Lab09.html"
+          #url: "labs/Lab09.html"
 
     - 
       date: 2024-04-16
