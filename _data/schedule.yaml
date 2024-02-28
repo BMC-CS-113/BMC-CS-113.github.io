@@ -185,19 +185,19 @@
     - 
       date: 2024-02-29
       title: Lecture 12 <br> Loops II
+      assignments: ~
       readings:
       -
           title: "Chapter 9: Loops"
 
-              #assignments:
-          #- 
-        #title: "Lab06 - Loops, 2-D Arrays, Tic Tac Toe, <s>Reading Files (Exceptions)</s>"
-              #url: "labs/Lab06.html"
-              #url: "hws/HW06.html"
-          #- 
-          #deadline: 2023-10-30
-          #title: "<s>HW05 - Battleship!</s>"
-          #url: "hws/HW01.html"
+      #- 
+      #title: "Lab06 - Loops, 2-D Arrays, Tic Tac Toe, <s>Reading Files (Exceptions)</s>"
+          #url: "labs/Lab06.html"
+          #url: "hws/HW06.html"
+      #- 
+      #deadline: 2023-10-30
+      #title: "<s>HW05 - Battleship!</s>"
+      #url: "hws/HW01.html"
 
     -
       date: 2024-03-03
@@ -254,7 +254,7 @@
       assignments:
         - 
           title: "Lab06 - Loops and 2D arrays"
-          #url: "labs/Lab07.html"
+          #url: "labs/Lab06.html"
         
       readings:
         -
