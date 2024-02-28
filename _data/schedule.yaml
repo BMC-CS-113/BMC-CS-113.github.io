@@ -191,7 +191,7 @@
 
       assignments:
       - 
-          title: "Lab06 - Loops, 2-D Arrays, Tic Tac Toe, <s>Reading Files (Exceptions)</s>"
+        #title: "Lab06 - Loops, 2-D Arrays, Tic Tac Toe, <s>Reading Files (Exceptions)</s>"
               #url: "labs/Lab06.html"
               #url: "hws/HW06.html"
           #- 
@@ -228,33 +228,33 @@
 - 
   lectures: 
     -
-      date: 2024-03-27
-      assignments:
+        #date: 2024-03-27
+        #assignments:
          - 
-          title: "HW06 - BlackJack"
+           #title: "HW06 - BlackJack"
           #url: "hws/HW05.html"
-          deadline: 2024-03-21
+          #deadline: 2024-03-21
     - 
       date: 2024-03-19
-      title: Lecture 15 <br> Expanding Arrays <br> Immutable vs Mutables <br> Classes vs Objects
+      title: Lecture 15 Arrays  of Arrays 
       #slides: slides/lecture15.pdf
       readings:
         -
           title: "Chapter 10: Immutable Objects"
-              #url: "https://greenteapress.com/thinkjava7/html/chapter-09.html"
+          #url: "https://greenteapress.com/thinkjava7/html/chapter-09.html"
         -
           title: "Chapter 11: Mutable Objects"
-              #url: "https://greenteapress.com/thinkjava7/html/chapter-10.html"
+          #url: "https://greenteapress.com/thinkjava7/html/chapter-10.html"
       assignments: ~
               
     - 
       date: 2024-03-21
-      title: Lecture 16 <br> Class Design
+      title: Lecture 16 <br> <br> Expanding Arrays <br> Immutable vs Mutables <br> Classes vs Objects <br> Class Design
       #slides: slides/lecture16.pdf
       assignments:
         - 
-          title: "Lab07 - Files & Exceptions"
-              #url: "labs/Lab07.html"
+          title: "Lab06 - Loops and 2D arrays"
+          #url: "labs/Lab07.html"
         
       readings:
         -
@@ -267,7 +267,7 @@
         - 
           deadline: 2024-03-28
           title: "HW07 - Board Game"
-          url: "hws/HW07.html"
+          #url: "hws/HW07.html"
 
     - 
       date: 2024-03-26
@@ -288,8 +288,8 @@
           title: "Chapter 15: Extending Classes"
       assignments:
         - 
-          title: "Lab08 - Designing classes"
-              #url: "labs/Lab08.html"
+          title: "Lab07 - Files and exceptions"
+              #url: "labs/Lab07.html"
 
     - 
         date: 2024-03-31
@@ -316,8 +316,8 @@
       readings: ~
       assignments:
         - 
-          title: "Lab09 - Interfaces"
-              #url: "labs/Lab09.html"
+          title: "Lab08 - Class Design"
+              #url: "labs/Lab08.html"
 
     -
       date: 2024-04-07
@@ -342,6 +342,11 @@
         -
             title: "Chapter 13.8: Binary Search"
             #url: "https://greenteapress.com/thinkjava7/html/chapter-13.8.html"
+       assignments:
+        - 
+          title: "Lab09 - Interfaces"
+              #url: "labs/Lab09.html"
+
     - 
       date: 2024-04-16
       title: Lecture 23 <br> Binary Search II
