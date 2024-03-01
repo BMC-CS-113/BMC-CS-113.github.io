@@ -204,9 +204,9 @@
       date: 2024-03-03
       assignments: 
         -
-          deadline: 2024-03-07
+          deadline: 2024-03-10
           title: "HW05 - Loops"
-              #url: "hws/HW06.html"
+          url: "hws/HW06.html"
     - 
       date: 2024-03-05
       title: Lecture 13 <br> Midterm Review
