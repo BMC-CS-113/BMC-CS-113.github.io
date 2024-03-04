@@ -186,7 +186,7 @@ Lets begin by writing out the skeleton of the program. A skeleton of a program i
 Now that we've written out our skeleton, we can implement each method. 
 
 The autograder tests a checkInput(String text) method which tests whether input to the game is valid and returns a boolean. 
-Players should be represented by integers 1 and -1. Player 1 should have the first turn. 
+Players should be represented by integers 1 and -1. Player 1 should have the first turn. A method getPlayer() should return an int 1 or -1 representing which player's turn it is at a given point in the game. 
 The method winner() should return which player won, or a 0 if there was a tie.
 There should be a method void updateBoard(int x, int y) which is used to update the game board. 
 
