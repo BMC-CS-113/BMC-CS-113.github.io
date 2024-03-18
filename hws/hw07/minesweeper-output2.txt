@@ -1,7 +1,5 @@
 $ java Minesweeper board2.txt
----------------------------
-- Welcome to Minesweeper! -
----------------------------
+Welcome to Minesweeper
 . . . .
 . . . .
 . . . .
@@ -18,12 +16,8 @@ Enter a col: 2
 . . . .
 . . . .
 . . X .
-*****************************
-* You hit a BOMB! You lose! *
-*****************************
---------------------------
--       Game Over!       -
---------------------------
+You hit a BOMB! You lose!
+Game Over!
 X 2 2 2
 3 4 X X
 X X 7 X
