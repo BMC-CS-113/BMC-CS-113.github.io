@@ -239,7 +239,7 @@
     - 
       date: 2024-03-19
       title: Lecture 15 Arrays of Arrays 
-      #slides: slides/lecture15.pdf
+      slides: slides/lecture14.pdf
       readings:
         -
           title: "Chapter 10: Immutable Objects"
