@@ -238,7 +238,7 @@
           #deadline: 2024-03-21
     - 
       date: 2024-03-19
-      title: Lecture 15 Arrays of Arrays 
+      title: Lecture 14 Arrays of Arrays 
       slides: slides/lecture14.pdf
       readings:
         -
@@ -251,7 +251,7 @@
               
     - 
       date: 2024-03-21
-      title: Lecture 16 <br> <br> Expanding Arrays <br> Immutable vs Mutables <br> Classes vs Objects <br> Class Design
+      title: Lecture 15 <br>  Class Design
       #slides: slides/lecture16.pdf
       assignments:
         - 
@@ -273,7 +273,7 @@
 
     - 
       date: 2024-03-26
-      title: Lecture 17 <br> Arrays of Objects
+      title: Lecture 16 <br> Arrays of Objects
       #slides: slides/lecture17.pdf
       assignments: ~
       
@@ -283,7 +283,7 @@
               #url: "https://greenteapress.com/thinkjava7/html/chapter-12.html"
     - 
       date: 2024-03-28
-      title: Lecture 18 <br> Relationships! (Inheritance)
+      title: Lecture 17 <br> Relationships! (Inheritance)
       #slides: slides/lecture18.pdf
       readings:
         - 
@@ -303,7 +303,7 @@
         
     - 
       date: 2024-04-02
-      title: Lecture 19 <br> Class Actions (Interfaces)
+      title: Lecture 18 <br> Class Actions (Interfaces)
       readings:
         -
           title: "Chapter 18.7: Interfaces"
@@ -313,7 +313,7 @@
         
     - 
       date: 2024-04-04
-      title: Lecture 20 <br> Midterm Review
+      title: Lecture 19 <br> Midterm Review
       #slides: slides/lecture19.pdf
       readings: ~
       assignments:
@@ -339,7 +339,7 @@
   lectures: 
     - 
       date: 2024-04-11
-      title: Lecture 22 <br> Binary Search I
+      title: Lecture 20 <br> Binary Search I
       readings: 
         -
             title: "Chapter 13.8: Binary Search"
@@ -351,7 +351,7 @@
 
     - 
       date: 2024-04-16
-      title: Lecture 23 <br> Binary Search II
+      title: Lecture 21 <br> Binary Search II
       #slides: slides/lecture22.pdf
       readings: 
         -
@@ -359,7 +359,7 @@
 
     - 
       date: 2024-04-18
-      title: Lecture 24 <br> Sorting I
+      title: Lecture 22 <br> Sorting I
       readings:
         -
           title: "Chapter 14: Objects of Arrays"
@@ -374,25 +374,25 @@
               #url: "hws/HW10.html"
     - 
       date: 2024-04-23
-      title: Lecture 25 <br> Sorting II
+      title: Lecture 23 <br> Sorting II
       #slides: slides/lecture24.pdf
       readings:
         -
           title: "Chapter 14: Objects of Arrays"
     - 
       date: 2024-04-25
-      title: Lecture 26 <br> Run time
+      title: Lecture 24 <br> Run time
       assignments:
         - 
           title: "Lab10 - Sorting"
               #url: "labs/Lab10.html"
     - 
       date: 2024-04-30
-      title: Lecture 27 <br> Final Review
+      title: Lecture 25 <br> Final Review
       #slides: slides/lecture26.pdf
     - 
       date: 2024-05-02
-      title: Lecture 28 <br> Final Review
+      title: Lecture 26 <br> Final Review
       #slides: slides/lecture27.pdf
       assignments:
         - 
