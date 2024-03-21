@@ -252,7 +252,7 @@
     - 
       date: 2024-03-21
       title: Lecture 15 <br>  Class Design
-      #slides: slides/lecture16.pdf
+      slides: slides/lecture15.pdf
       assignments:
         - 
           title: "Lab06 - Loops and 2D arrays"
