@@ -256,7 +256,7 @@
       assignments:
         - 
           title: "Lab06 - Loops and 2D arrays"
-          #url: "labs/Lab06.html"
+          url: "labs/Lab06.html"
         
       readings:
         -
@@ -267,7 +267,7 @@
       date: 2024-03-24
       assignments: 
         - 
-          deadline: 2024-03-28
+          deadline: 2024-04-02
           title: "HW06 - Board Game"
           url: "hws/HW07.html"
 
