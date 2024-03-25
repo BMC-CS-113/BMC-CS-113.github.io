@@ -322,9 +322,9 @@
       date: 2024-04-07
       assignments:
         -
-      deadline: 2024-04-11
-      title: "HW08 - Class design"
-      #url: "hws/HW08.html"
+          deadline: 2024-04-11
+          title: "HW08 - Class design"
+          #url: "hws/HW08.html"
 
       
     - 
