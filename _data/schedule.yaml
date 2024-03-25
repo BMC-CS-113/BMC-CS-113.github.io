@@ -342,30 +342,31 @@
       
     - 
       date: 2024-04-11
-      title: Lecture 23 <br> Sorting I
+      title: Lecture 21 <br> Sorting I
       readings:
         -
           title: "Chapter 14: Objects of Arrays"
 
-      assignments: ~
+      assignments: 
+        - 
+          title: "Lab09 - Interfaces"
+          #url: "labs/Lab09.html"
+
     
     - 
       date: 2024-04-16
-      title: Lecture 24 <br> Sorting II
+      title: Lecture 22 <br> Sorting II
       #slides: slides/lecture24.pdf
-      readings:
+      readings: 
         -
           title: "Chapter 14: Objects of Arrays"
 
     - 
       date: 2024-04-18
-      title: Lecture 21 <br> Midterm Review
+      title: Lecture 23 <br> Midterm Review
       readings: ~
-      assignments:
-        - 
-          title: "Lab09 - Interfaces"
-          #url: "labs/Lab09.html"
-
+      assignments: ~
+      
     - 
       date: 2024-04-23
       title: Midterm II
