@@ -341,7 +341,6 @@
       assignments: ~
       
 
-  lectures: 
     - 
       date: 2024-04-11
       title: Lecture 21 <br> Midterm Review
@@ -360,6 +359,7 @@
   name: "Object Oriented Programming"
 - 
 
+  lectures: 
     - 
       date: 2024-04-18
       title: Lecture 22 <br> Sorting I
