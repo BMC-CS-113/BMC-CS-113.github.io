@@ -313,9 +313,12 @@
         
     - 
       date: 2024-04-04
-      title: Lecture 19 <br> Midterm Review
+      title: Lecture 19 <br> Binary Search I
       #slides: slides/lecture19.pdf
-      readings: ~
+      readings:
+        -
+            title: "Chapter 13.8: Binary Search"
+
       assignments:
         - 
           title: "Lab08 - Class Design"
@@ -329,21 +332,20 @@
           deadline: 2024-04-11
     - 
       date: 2024-04-09
-      title: Midterm II
+      title: Lecture 20 <br> Binary Search II 
       #slides: slides/lecture21.pdf
-      readings: ~
-      assignments: ~
-      
-  name: "Object Oriented Programming"
-- 
-  lectures: 
-    - 
-      date: 2024-04-11
-      title: Lecture 20 <br> Binary Search I
       readings: 
         -
             title: "Chapter 13.8: Binary Search"
-            #url: "https://greenteapress.com/thinkjava7/html/chapter-13.8.html"
+
+      assignments: ~
+      
+
+  lectures: 
+    - 
+      date: 2024-04-11
+      title: Lecture 21 <br> Midterm Review
+      readings: ~
       assignments:
         - 
           title: "Lab09 - Interfaces"
@@ -351,11 +353,12 @@
 
     - 
       date: 2024-04-16
-      title: Lecture 21 <br> Binary Search II
+      title: Lecture 22 <br> Midterm II
       #slides: slides/lecture22.pdf
-      readings: 
-        -
-            title: "Chapter 13.8: Binary Search"
+      readings: ~
+
+  name: "Object Oriented Programming"
+- 
 
     - 
       date: 2024-04-18
