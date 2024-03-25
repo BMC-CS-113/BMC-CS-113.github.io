@@ -293,13 +293,7 @@
           title: "Lab07 - Files and exceptions"
               #url: "labs/Lab07.html"
 
-    - 
-        date: 2024-03-31
-        assignments:
-          -
-            deadline: 2024-04-04
-            title: "HW08 - Class design"
-            #url: "hws/HW08.html"
+    
         
     - 
       date: 2024-04-02
@@ -327,9 +321,12 @@
     -
       date: 2024-04-07
       assignments:
-        - 
-          title: "HW09 - OOP"
-          deadline: 2024-04-11
+        -
+      deadline: 2024-04-11
+      title: "HW08 - Class design"
+      #url: "hws/HW08.html"
+
+      
     - 
       date: 2024-04-09
       title: Lecture 20 <br> Binary Search II 
@@ -351,7 +348,12 @@
         - 
           title: "Lab09 - Interfaces"
           #url: "labs/Lab09.html"
-
+    -
+      date: 2024-04-14
+      assignments:
+        - 
+          title: "HW09 - OOP"
+          deadline: 2024-04-18
     
     - 
       date: 2024-04-16
