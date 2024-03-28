@@ -4,7 +4,7 @@ title: Exceptions & Files
 type: Lab
 number: 07
 active_tab: lab
-release_date: 2023-11-02
+release_date: 2024-03-28
 
 ---
 
