@@ -309,7 +309,7 @@
     - 
       date: 2024-04-04
       title: Lecture 19 <br> Binary Search I
-      #slides: slides/lecture19.pdf
+      slides: slides/lecture19.pdf
       readings:
         -
             title: "Chapter 13.8: Binary Search"
@@ -317,7 +317,7 @@
       assignments:
         - 
           title: "Lab08 - Class Design"
-              #url: "labs/Lab08.html"
+          url: "labs/Lab08.html"
 
     -
       date: 2024-04-07
