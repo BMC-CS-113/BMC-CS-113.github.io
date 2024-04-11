@@ -324,13 +324,13 @@
       assignments:
         -
           deadline: 2024-04-11
-          title: "HW08 - Class design"
-          #url: "hws/HW08.html"
+          title: "HW07 - Class design"
+          url: "hws/HW08.html"
 
       
     - 
       date: 2024-04-09
-      title: Lecture 20 <br> Binary Search II 
+      title: CLASS CANCELLED <s> Lecture 20 <br> Binary Search II </s>
       #slides: slides/lecture21.pdf
       readings: 
         -
@@ -341,6 +341,7 @@
     - 
       date: 2024-04-11
       title: Lecture 21 <br> Sorting I
+      slides: slides/lecture21.pdf
       readings:
         -
           title: "Chapter 14: Objects of Arrays"
@@ -348,7 +349,7 @@
       assignments: 
         - 
           title: "Lab09 - Interfaces"
-          #url: "labs/Lab09.html"
+          url: "labs/Lab09.html"
     -
       date: 2024-04-14
       assignments:
