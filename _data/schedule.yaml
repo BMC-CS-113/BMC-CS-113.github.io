@@ -341,6 +341,7 @@
     - 
       date: 2024-04-11
       title: Lecture 21 <br> Sorting I
+      slides: slides/lecture21.pdf
       readings:
         -
           title: "Chapter 14: Objects of Arrays"
@@ -348,7 +349,7 @@
       assignments: 
         - 
           title: "Lab09 - Interfaces"
-          #url: "labs/Lab09.html"
+          url: "labs/Lab09.html"
     -
       date: 2024-04-14
       assignments:
