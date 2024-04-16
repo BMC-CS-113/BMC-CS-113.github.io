@@ -361,10 +361,7 @@
     - 
       date: 2024-04-16
       title: Lecture 22 <br> Midterm Review I 
-      #slides: slides/lecture24.pdf
-      readings: 
-        -
-          title: "Chapter 14: Objects of Arrays"
+      slides: slides/lecture22.pdf
 
     - 
       date: 2024-04-18
