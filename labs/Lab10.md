@@ -67,9 +67,7 @@ Before leaving the lab, make sure you fill out the attendance sheet and go throu
 
 ## 1. Bubble Sort
 
-In today's lecture we discussed Bubble Sort. We walked through an example together and discussed the algorithm. 
-
-In this part of the lab, you will implement Bubble Sort. But first, we will walk through another example together. Slide 64 form lecture 24 has the psuedocode/algorithm for Bubblesort. I'd recommend you pull it up as a reference.
+In this part of the lab, you will implement Bubble Sort. But first, we will walk through another example together. Slide 21 from lecture 21 has the psuedocode/algorithm for Bubblesort. I'd recommend you pull it up as a reference.
 
 ### 1.1 Example 1
 
