@@ -385,8 +385,8 @@
     - 
       date: 2024-04-25
       title: Lecture 25 <br> Run time
-      assignments:
       slides: slides/lecture25.pdf
+      assignments:
         - 
           title: "Lab10 - Sorting"
           url: "labs/Lab10.html"
@@ -397,7 +397,7 @@
         - 
           deadline: 2024-05-02
           title: "HW10 - SuperDuper Array"
-              #url: "hws/HW10.html"
+          url: "hws/HW10.html"
     - 
       date: 2024-04-30
       title: Lecture 26 <br> Final Review
