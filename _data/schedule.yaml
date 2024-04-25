@@ -388,7 +388,8 @@
       assignments:
         - 
           title: "Lab10 - Sorting"
-              #url: "labs/Lab10.html"
+          slides: slides/lecture25.pdf
+          url: "labs/Lab10.html"
 
     - 
       date: 2024-04-28
