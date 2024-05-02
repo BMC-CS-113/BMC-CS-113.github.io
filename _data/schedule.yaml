@@ -405,7 +405,7 @@
     - 
       date: 2024-05-02
       title: Lecture 27 <br> Final Review
-      #slides: slides/lecture27.pdf
+      slides: slides/lecture27.pdf
       assignments:
         - 
           title: "Lab11 - Runtime"
