@@ -128,7 +128,7 @@ the inner loop from bubble sort:
 ```
 void oneLoop(int[] L)
 {
-   for (int j = 0; j < L.length()-1; j++) 
+   for (int j = 0; j < L.length-1; j++) 
    {
       if (L[j] > L[j+1])
       {
