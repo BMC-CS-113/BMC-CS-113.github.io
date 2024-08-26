@@ -45,21 +45,21 @@ Course number
 : CMSC B113 - students from all majors are welcome!
 
 Instructor
-: [Elizabeth Dinella](https://www.seas.upenn.edu/~edinella/)
+: [Adam Poliak](https://wwww.azpoliak.github.io)
 
 Teaching Assistants
 : [Course Staff](staff.html) 
 
 Discussion Forum
-: [Piazza](https://piazza.com/class/lr6qql9edie6ye)
+: [Piazza](https://piazza.com/brynmawr/fall2024/cs113)
 
 Code Samples From Lecture 
-: [Github](https://github.com/BMC-CS-113/class-examples-s24)
+: [Github](https://github.com/BMC-CS-113/class-examples-f24)
 
 Time and place
-: Spring 2024
-: TTH 12:55-2:15pm, Location: Park 231
-: Lab TH: 2:25-3:45pm, Location: Park 231
+: Fall 2024
+: TTH 1:10-2:30pm, Location: Park 300
+: Lab TH: 2:40-4:00pm, Location: Park 231
 
 Prerequisites
 : None - no prior programming background is required
@@ -71,8 +71,8 @@ Course Readings
 Grading
 * Homeworks: 30%
 * Labs: 5%
-* Midterms: 25%
-* Final: 35% 
+* Midterms: 27%
+* Final: 33% 
 * Participation: 5%
 
 
