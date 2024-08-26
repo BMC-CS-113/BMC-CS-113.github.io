@@ -1,21 +1,25 @@
 - 
   lectures: 
     - 
-      date: 2024-01-23
+      date: 2024-09-03
       title: Lecture 1 <br> Course Introduction <br> Terminal, Compiling
       slides: slides/lecture01.pdf
 
       assignments: 
        - 
-          title: "Lab00 - CS Lab Machines 101: Command Line (Do before Lab on Thursday)"
+          title: "Lab00 - CS Lab Machines 101: Command Line"
           url: "labs/Lab00.html"
+       - 
+          deadline: 2024-02-01
+          title: "HW00 - Hello World, Compile Errors"
+          url: "hws/HW00.html"
         
       readings:
         -
           title: "Chapter 1: Computer Programming"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-01.html"
     - 
-      date: 2024-01-25
+      date: 2024-09-05
       title: Lecture 2 <br> Data Types (Ints, doubles, strings)
       slides: slides/lecture02.pdf
       readings:
@@ -23,24 +27,18 @@
           title: "Chapter 2: Variables & Operators"
           #url: "https://greenteapress.com/thinkjava7/html/chapter-02.html"
       assignments:
-        
+    -
+      date: 2024-09-10
+      title: Lecture 3 <br> I/O (input/output)
+      slides: slides/lecture03.pdf
+      assignments:
         - 
           title: "Lab01 - Data Types & Expressions"
           url: "labs/Lab01.html"
-    - 
-      date: 2024-01-28
-      assignments: 
-        - 
-          deadline: 2024-02-01
-          title: "HW00 - Hello World, Compile Errors"
-          url: "hws/HW00.html"
-              #title: "HW02 - I/O & Methods"
-              #url: "hws/HW02.html"
-    -
-      date: 2024-01-30
-      title: Lecture 3 <br> I/O (input/output)
-      slides: slides/lecture03.pdf
-      assignments: ~
+        -
+          deadline: 2024-02-08
+          title: "HW01 - Variables & I/O"
+          url: "hws/HW01.html"
           #- 
           #deadline: 2024-02-08
           #title: "HW01 - Variables & I/O"
@@ -51,7 +49,7 @@
           #url: "https://greenteapress.com/thinkjava7/html/chapter-03.html"
     -
     
-      date: 2024-02-01
+      date: 2024-09-12
       title: Lecture 4 <br> Methods I
       slides: slides/lecture04.pdf
       readings:
@@ -59,31 +57,26 @@
           title: "Chapter 4: Methods & Testing"
           #url: "https://greenteapress.com/thinkjava7/html/chapter-04.html"
       assignments:
+    - 
+
+      date: 2024-09-17
+      title: Lecture 5 <br> Methods II
+      slides: slides/lecture05.pdf
+      assignments: 
         - 
           title: "Lab02 - I/O & Methods"
           url: "labs/Lab02.html"
-
-    -
-      date: 2024-02-04
-      #slides: slides/lecture03.pdf
-      assignments:
         -
-          deadline: 2024-02-08
-          title: "HW01 - Variables & I/O"
-          url: "hws/HW01.html"
-    - 
-
-      date: 2024-02-06
-      title: Lecture 5 <br> Methods II
-      slides: slides/lecture05.pdf
-      assignments: ~
+            deadline: 2024-02-18
+            title: "HW02 - I/O & Methods"
+            url: "hws/HW02.html"
         
       readings:
         -
           title: "Chapter 4: Methods & Testing"
           #url: "https://greenteapress.com/thinkjava7/html/chapter-04.html"
     - 
-      date: 2024-02-08
+      date: 2024-09-19
       title: Lecture 6 <br> Booleans & Conditionals
       slides: slides/lecture06.pdf
       readings:
@@ -91,36 +84,33 @@
           title: "Chapter 5: Conditionals & Logic"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-05.html"
       assignments:
+
+            
+    - 
+      date: 2024-09-24
+      title: <s> Lecture 7 <br> Recursion </s>
+      #slides: slides/lecture07.pdf
+      assignments: 
         - 
           title: "Lab03 - Conditionals & String Methods"
           url: "labs/Lab03.html"
-
-    -
-        date: 2024-02-11
-        assignments:
-          -
-            deadline: 2024-02-18
-            title: "HW02 - I/O & Methods"
-            url: "hws/HW02.html"
-            
-    - 
-      date: 2024-02-13
-      title: <s> Lecture 7 <br> Recursion </s>
-      #slides: slides/lecture07.pdf
-      assignments: ~
         
       readings:
         -
           title: "Chapter 6: Recursive Methods"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-06.html"
     - 
-      date: 2024-02-15
+      date: 2024-09-26
       title: Lecture 8 <br> Recursion 
       slides: slides/lecture08.pdf
       assignments:
         - 
           title: "Lab04 - Recursion & Arrays"
           url: "labs/Lab04.html"
+        -
+          deadline: 2024-02-22
+          title: "HW03 - Conditionals, Methods, & Strings"
+          url: "hws/HW03.html"
         
               #url: "hws/HW04.html"
           #title: "<s>Project 1 - BlackJack</s>"
@@ -130,16 +120,9 @@
         -
           title: "Chapter 7: Objects: Strings"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-07.html"
-    - 
-      date: 2024-02-18
-      assignments: 
-        - 
-          deadline: 2024-02-22
-          title: "HW03 - Conditionals, Methods, & Strings"
-          url: "hws/HW03.html"
 
     -
-      date: 2024-02-20
+      date: 2024-10-01
       title: Lecture 9 <br>  Strings as Objects <br> Arrays I
       slides: slides/lecture09.pdf
       assignments: ~
@@ -152,7 +135,7 @@
           title: "Chapter 10.5: Command Line Arguments"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-09.html#sec113"
     - 
-      date: 2024-02-22
+      date: 2024-10-03
       title: Lecture 10 <br> Arrays II
       slides: slides/lecture10.pdf
       readings: ~
@@ -160,22 +143,19 @@
         - 
           title: "Lab05 - Recursion with Arrays"
           url: "labs/Lab05.html"
+        -
+         title: "HW04 - Arrays & Recursion"
+         deadline: 2024-03-03
+         url: "hws/HW04.html"
         
       readings:
           -
             title: "Chapter 8: Arrays and References"
 
-    - 
-       date: 2024-02-25
-       assignments:
-        -
-         title: "HW04 - Arrays & Recursion"
-         deadline: 2024-03-03
-         url: "hws/HW04.html"
 
     - 
-      date: 2024-02-27
-      title: Lecture 11 <br> Loops I 
+      date: 2024-10-08
+      title:  Lecture 11 <br> Loops I 
       slides: slides/lecture11.pdf
       assignments: ~
               
@@ -183,10 +163,14 @@
         -
           title: "Chapter 9: Loops"
     - 
-      date: 2024-02-29
+      date: 2024-10-10
       title: Lecture 12 <br> Loops II
       slides: slides/lecture12.pdf
-      assignments: ~
+      assignments: 
+        -
+          deadline: 2024-03-17
+          title: "HW05 - Loops"
+          url: "hws/HW06.html"
       readings:
       -
           title: "Chapter 9: Loops"
@@ -200,31 +184,24 @@
       #title: "<s>HW05 - Battleship!</s>"
       #url: "hws/HW01.html"
 
-    -
-      date: 2024-03-03
-      assignments: 
-        -
-          deadline: 2024-03-17
-          title: "HW05 - Loops"
-          url: "hws/HW06.html"
     - 
-      date: 2024-03-05
-      title: Lecture 13 <br> Midterm Review
+      date: 2024-10-15
+      title: FALL BREAK <br> Midterm Review
       assignments: ~
       readings: ~
       slides: slides/lecture13.pdf
     - 
-      date: 2024-03-07
-      title: Midterm I
+      date: 2024-10-17
+      title: FALL BREAK Midterm I
       #slides: slides/lecture14.pdf
       readings: ~
       assignments: ~
     -
-      date: 2024-03-12
-      title: Spring Break
+      date: 2024-10-22
+      title: 
     - 
-      date: 2024-03-14
-      title: Spring Break
+      date: 2024-10-24
+      title: EMNLP
 
   name: "Programming Fundamentals"
 - 
@@ -237,7 +214,7 @@
           #url: "hws/HW05.html"
           #deadline: 2024-03-21
     - 
-      date: 2024-03-19
+      date: 2024-10-29
       title: Lecture 14 Arrays of Arrays 
       slides: slides/lecture14.pdf
       readings:
@@ -250,29 +227,26 @@
       assignments: ~
               
     - 
-      date: 2024-03-21
+      date: 2024-10-31
       title: Lecture 15 <br>  Class Design
       slides: slides/lecture15.pdf
       assignments:
         - 
           title: "Lab06 - Loops and 2D arrays"
           url: "labs/Lab06.html"
+        - 
+          deadline: 2024-04-04
+          title: "HW06 - Board Game"
+          url: "hws/HW07.html"
         
       readings:
         -
           title: "Chapter 12: Designing Classes"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-09.html"
 
-    -
-      date: 2024-03-24
-      assignments: 
-        - 
-          deadline: 2024-04-04
-          title: "HW06 - Board Game"
-          url: "hws/HW07.html"
 
     - 
-      date: 2024-03-26
+      date: 2024-11-05
       title: Lecture 16 <br> Arrays of Objects
       slides: slides/lecture16.pdf
       assignments: ~
@@ -282,8 +256,8 @@
           title: "Chapter 13: Arrays of Ojbects (everything up to 13.7)"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-12.html"
     - 
-      date: 2024-03-28
-      title: Lecture 17 <br> Relationships! (Inheritance)
+      date: 2024-11-07
+      title:  Lecture 17 <br> Relationships! (Inheritance)
       slides: slides/lecture17.pdf
       readings:
         - 
@@ -292,11 +266,9 @@
         - 
           title: "Lab07 - Files and exceptions"
           url: "labs/Lab07.html"
-
-    
         
     - 
-      date: 2024-04-02
+      date: 2024-11-12
       title: Lecture 18 <br> Class Actions (Interfaces)
       readings:
         -
@@ -307,7 +279,7 @@
       
         
     - 
-      date: 2024-04-04
+      date: 2024-11-14
       title: Lecture 19 <br> Binary Search I
       slides: slides/lecture19.pdf
       readings:
@@ -318,10 +290,6 @@
         - 
           title: "Lab08 - Class Design"
           url: "labs/Lab08.html"
-
-    -
-      date: 2024-04-07
-      assignments:
         -
           deadline: 2024-04-11
           title: "HW07 - Class design"
@@ -329,8 +297,8 @@
 
       
     - 
-      date: 2024-04-09
-      title: CLASS CANCELLED <s> Lecture 20 <br> Binary Search II </s>
+      date: 2024-11-19
+      title: <s> Lecture 20 <br> Binary Search II </s>
       #slides: slides/lecture21.pdf
       readings: 
         -
@@ -339,7 +307,7 @@
       assignments: ~
       
     - 
-      date: 2024-04-11
+      date: 2024-11-21
       title: Lecture 21 <br> Sorting I
       slides: slides/lecture21.pdf
       readings:
@@ -350,21 +318,18 @@
         - 
           title: "Lab09 - Interfaces"
           url: "labs/Lab09.html"
-    -
-      date: 2024-04-14
-      assignments:
         - 
           title: "HW08 - OOP"
           deadline: 2024-04-18
           url: "hws/HW09.html"
     
     - 
-      date: 2024-04-16
-      title: Lecture 22 <br> Midterm Review I 
+      date: 2024-11-26
+      title:  Lecture 22 <br> Midterm Review I 
       slides: slides/lecture22.pdf
 
     - 
-      date: 2024-04-18
+      date: 2024-04-28
       title: Lecture 23 <br> Midterm Review
       readings: ~
       assignments: 
@@ -372,7 +337,7 @@
             title: "No Lab - Extra Credit Opportunity"
       
     - 
-      date: 2024-04-23
+      date: 2024-12-03
       title: Midterm II
       slides: slides/lecture23.pdf
       readings: ~
@@ -383,7 +348,7 @@
   lectures: 
     
     - 
-      date: 2024-04-25
+      date: 2024-12-05
       title: Lecture 25 <br> Run time
       slides: slides/lecture25.pdf
       assignments:
@@ -392,14 +357,14 @@
           url: "labs/Lab10.html"
 
     - 
-      date: 2024-04-28
+      date: 2024-12-10
       assignments:
         - 
           deadline: 2024-05-07
           title: "HW09 - SuperDuper Array"
           url: "hws/HW10.html"
     - 
-      date: 2024-04-30
+      date: 2024-12-12
       title: Lecture 26 <br> Final Review
       slides: slides/lecture26.pdf
     - 
