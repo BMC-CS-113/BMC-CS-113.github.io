@@ -195,7 +195,8 @@ Now in your main method, use these methods to ask a user for 5 numbers and print
 `*` represents user input. 
 
 ```
-$ javac Average.java; java Average
+$ javac Average.java
+$ java Average
 Please give me a number: *2.5*
 Please give me a number: *3.6*
 Please give me a number: *9.2*
@@ -208,7 +209,7 @@ The average of your numbers is 3.5
 
 ## 3. Strings
 
-In class we saw how to use Math methods. Now we will look at a few `String` methods. 
+Now we will look at a few `String` methods. 
 
 If we have a `String`, we can determine the following information:
 
@@ -228,7 +229,8 @@ The program will then tell the user:
 
 
 ```
-$ javac WordInfo.java; java WordInfo
+$ javac WordInfo.java
+$ java WordInfo
 Please give me a word: *character*
 Please give me a character: *a*
 character has 9 letters, a is the #3 letter in the character

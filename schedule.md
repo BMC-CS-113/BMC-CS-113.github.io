@@ -12,6 +12,9 @@ active_tab: lectures
 
 <div class="alert alert-info">
 
+
+You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=e677a451-4536-41ae-800e-b0fa014b05d5">watch recordings of the Spring 2024 lecture videos online</a>.
+<br><br>
 You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=044d58f9-262c-4e56-a8ac-b0660147f4ec">watch recordings of the Fall 2023 lecture videos online</a>.
 <br><br>
 You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=7d5ab2e3-94a1-4004-a926-af8d013dc393">watch recordings of the Spring 2023 lecture videos online</a>.
@@ -24,11 +27,8 @@ The lecture schedule will be updated as the term progresses.
 
 ### Pre-course
 
-Make sure to fill out this [pre-course survey](https://forms.gle/NFz1n3BeLU2sQsQ78).
-
 Make sure you are registered for the course [Gradescope](https://www.gradescope.com/) and [Piazza](https://piazza.com/brynmawr/fall2023/cmscb113).
 
-Please complete <a href="{{ site.url }}{{ site.baseurl }}/labs/Lab00.html">Lab00</a> before the first lab meeting.
 
 {% for week in site.data.schedule %}
   <h3>

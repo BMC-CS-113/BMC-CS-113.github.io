@@ -56,17 +56,6 @@ The main goals for this lab are for you to get more comfortable with
 recursion and arrays.
 
 
-### Paired Programming rules
-
-This lab is a **paired programming assignment.** What exactly does that mean? You will be working in pairs on the CS lab computers. Each pair will be working on one computer. One person will be the **driver** and the other person will be the **navigator**. Here is the rule: the **driver** controlls the lab computer, but the **driver** can only type what the **navigator** tells them to type. For this to work well, each pair should be constantly talking among themselves. After each problem, you will switch roles, the navigator will become the driver and the driver will become the navigator.
-
-> **Switching Partners This Week**
-> Please find a new partner. You will working with this partner for the next 3 weeks. In 3 weeks time we will switch partners again.
-
-### Finishing the lab
-
-Before leaving the lab, make sure you fill out the attendance sheet and go through your answers with a TA or instructor.
-
 ## 1. Recursion
 
 As discussed in class, recursion is the process of a method invoking itself over and over again. There are two components to a recursive method: 
@@ -79,16 +68,15 @@ As discussed in class, recursion is the process of a method invoking itself over
 ### 1.2 Sum of numbers
 Given a String of numbers, write a method called `sum` that returns the sum of all the numbers in the String. `sum` should have one parameter, the string of numbers 
 
-For example `sum(1234)` should return 10. 
+For example `sum("1234")` should return 10. 
 
 Below we are going to implement this together. The following questions will help guide you. 
 
 #### Overview of approach
 
-In class we motivated recursion by discussing a lazy way to do the dishes, i.e. wash one dish, then ask someone to wash the rest of the dishes. 
 <br>
 <br>
-**Question 1:** How would we extend that analogy to this situation here of finding the sum of all the numbers in a string?
+**Question 1:** Look at our class code for `ContainsLetter` to find if a char exists in a string. How does this relate to finding the sum of all the numbers in a string?
 
 <br><br><br>
 
@@ -121,9 +109,6 @@ Look at the example on page 105 of the textbook.
 
 **Question 5:** Given the character `1`, how can we get the integer value `1`
 
-<details><summary><b style="color:DodgerBlue;">HINT</b></summary>
-What is the ASCII value of `'0'`, what about `'9'`? You can look them up here: https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html</details>
-<br><br>
 
 **Question 6:** Given the String `1234`, how can we get the substring `234`?
 
@@ -138,15 +123,15 @@ Now we are ready to combine these answers to implement our recursive step right 
 
 In your main method, test `sum()` by invoking the method with the following arugments:
 
-- `sum(234)` should return 9
-- `sum(2222)` should return 8
-- `sum(19802)` should return 20
-- `sum(00020)` should return 2
+- `sum("234")` should return 9
+- `sum("2222")` should return 8
+- `sum("19802")` should return 20
+- `sum("00020")` should return 2
 
 ### 1.3 Product of numbers
-Given a String of numbers, write a method called `product` that returns the sum of all the numbers in the String. `product` should have one parameter, the string of numbers
+Given a String of numbers, write a method called `product` that returns the product of all the numbers in the String. `product` should have one parameter, the string of numbers
 
-For example `product(1234)` should return 12.
+For example `product("1234")` should return 24.
 
 ## 2. Arrays
 
@@ -214,6 +199,7 @@ In the main method, lets invokes this method multiple times. Each time we will p
 |   "AbCdE"  <br> <br> |    |
 |   "zyxvw"  <br> <br> |    |
 
+Check with the TAs that you correctly understand the specification.
 
 ### 3.3 Algorithm
 
@@ -297,9 +283,9 @@ The following steps are out of order, put them in the correct order.
 3. Determine the distance between the 2rd character and `a` or `A`
 4. Determine the distance between the 4rd character and `a` or `A`
 5. Update the value of the 5th index of the array
-5.  Update the value of the 3rd index of the array
-5.  Determine the distance between the 5th character and `a` or `A`
-6. Initialize an emtpy integer array of length 5
+5. Update the value of the 3rd index of the array
+5. Determine the distance between the 5th character and `a` or `A`
+6. Initialize an empty integer array of length 5
 6. Determine the distance between the 1st character and `a` or `A`
 7.  Update the value of the 2nd index of the array
 8. Update the value of the 1st index of the array
@@ -309,6 +295,8 @@ The following steps are out of order, put them in the correct order.
 Now that you correctly ordered the steps of the algorithm, its time to implement our method.
 
 **QUESTION::** Implement the method and then run the tests you wrote earlier in the main method to test your implementation.
+
+You can use the `printList` recursive method we wrote in class to view the output of distances. 
 
 
 ### Signing out

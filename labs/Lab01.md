@@ -68,7 +68,7 @@ This lab is a **paired programming assignment.** What exactly does that mean? Yo
 
 ### Finishing the lab
 
-Before leaving the lab, make sure you fill out the attendance sheet and go through your answers with a TA or instructor.
+Before leaving the lab, make sure you go through your answers with a TA or instructor.
 
 ## 0. CS Lab Machine Setup
 Hopefully you completed Lab00 so far. If not, then run the following commands on the terminal 
@@ -84,14 +84,14 @@ cd lab01
 ```
 
 To confirm this works, you should see something like
-`apoliak@julia:~/cs113/labs/lab01$ ` on the command prompt.
-You will hopefully see your username instead of `apoliak` and different
-name after the `@` symbol besides for `julia`. Lab00 explains what the second
+`edinella@goldengate:~/cs113/labs/lab01$ ` on the command prompt.
+You will hopefully see your username instead of `edinella` and different
+name after the `@` symbol besides for `goldengate`. Lab00 explains what the second
 name means.
 
 Another way to confirm you followed the steps above correctly is to run 
-`pwd`. You should the see something like `/home/apoliak/cs113/labs/lab01` (where
-again it will say your username rather than `apoliak`.
+`pwd`. You should the see something like `/home/edinella/cs113/labs/lab01` (where
+again it will say your username rather than `edinella`.
 
 ## 1. Expressions 
 
@@ -118,7 +118,7 @@ Each row in the table below represents an expression. Please fill in the **value
 <tbody>
   <tr>
     <td class="tg-c3ow">2+3</td>
-    <td class="tg-c3ow">                                         '              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-c3ow">                                                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-c3ow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
@@ -164,54 +164,20 @@ Each row in the table below represents an expression. Please fill in the **value
 </tbody>
 </table>
 
-## 2. VIM editor
-
-_credit: Swarthmore CS21 Lab 0_
-
-This semester wewill use the vim editor for editing files on our system. You will primarily use vim to create and edit files containing the python program code to run on our system.
-
-The `vi` and `vim` (Vi IMproved) editors are available on every Unix system. `vim` is an efficient and lightweight text editor that is easy to use after learning a few basic commands, which you can learn by running though the `vimtutor` tutorial.
-
-`vim` is particularly useful when working remotely over an ssh connection (an ssh connection is
-how you will connect to the lab machines remotely).
-
-`vim` also has many advanced features and is very configurable through, e.g., the use of a `.vimrc` file. However, just a few basic commands are enough to get you started.
-
-<b>Creating and opening a file in Vim</b>
-
-Start by typing `vim example.txt`. This will create a new file called
-`example.txt` and will open it up in vim.
-
-<b>Vim operates in two modes:</b>
-1. <b>insert mode</b>: keystrokes are interpreted as inserts into the file contents at the point of the cursor.
-2. <b>command or escape mode</b>: keystrokes are interpreted as vim commands, which allow a user to do such things as saving, exiting, searching, or moving around in the file.
-
-To switch from <i>insert mode</i> to <i>command mode</i>, press the ESC key.
-
-There are many ways to switch from <i>command mode</i> to <i>insert mode</i>. One way is to press the `i` key.
-
-To save a file make sure you are in <i>command mode</i>. Then type <i>:</i>, this will allow you to run a command. Then type <i>wq</i>. This will
-save the changes to the file and then quit the file.
-
-**Some Vim Resources and Links**
-
-Here are som helpful resources:
-
-- [vi (and vim) quick reference](https://www.cs.swarthmore.edu/~newhall/unixhelp/viquickref.pdf)
-- [vim links and references](https://www.cs.swarthmore.edu/~newhall/unixlinks.html#edit)
-- [Swathmore CS help pages vim info](https://www.cs.swarthmore.edu/newhelp/vim.html)
-
 ## 2. Sum.java
 
 > Note: The next few problems will require asking the user for information, storing the information, and then doing something with it.
-> Look at slide 8 from the 2nd lecture on how to read in what the user writes in the console.
+> Look at slide 6 from the 2nd lecture on how to read in what the user writes in the console.
 
 ### Sum1
 
-Write a program `Sum1.java` that asks the user for two integers and then prints the sum of the numbers. You can assume that the user will put in valid integers. When run, your program should use the same format, i.e. 1) the program asks a user for an integer; 2) the user puts an integer on a new line; 3) the program asks a user for a integer; 4) the user puts a integer on a new line; 5) the program prints the total. In the prompt you show the user, you can use different wording. Below is an exmple. 
+Write a program `Sum1.java` that asks the user for two integers and then prints the sum of the numbers. You can assume that the user will put in valid integers. 
+When run, your program should do the following: 1) the program asks a user for a number 2) the user enters an integer 3) the program asks a user for a second number 4) the user enters an integer 5) the program prints the sum.  
+See if you can exactly match the format below!
 
 ```
-$ javac Sum1.java; java Sum1
+$ javac Sum1.java
+$ java Sum1
 Please give me one number:
 5
 Please give me a second number:
@@ -222,7 +188,7 @@ The sum of the two numbers is 7
 
 <details><summary><b style="color:DodgerBlue;">HINT ABOUT CONVERTING DATA TYPES</b></summary>
 
-Look at slide 30 for how to convert Strings to integers or doubles.
+Look at slide 33 for how to convert Strings to integers or doubles.
 
 
 </details> 
@@ -231,10 +197,11 @@ Look at slide 30 for how to convert Strings to integers or doubles.
 
 ### Sum2
 
-Write a program `Sum2.java` that asks the user for two integers and then prints the sum of the numbers. When run, your program should use the same format, i.e. 1) the program asks a user for an integer; 2) the user gives an integer on the same line; 3) the program asks a user for a integer; 4) the user puts a integer on the same line; 5) the program prints the total. In the prompt you show the user, you can use different wording, *but there should be a space between the prompt and wht the user puts in*. Below is an exmple. 
+Modify your Sum program to match the following format. That is, the user input should be on the same line as the prompt.
 
 ```
-$ javac Sum2.java; java Sum2
+$ javac Sum1.java
+$ java Sum1
 Please give me one number: 5
 Please give me a second number: 2
 The sum of the two numbers is 7
@@ -246,7 +213,7 @@ You might want to look at Section 1.6 (Displaying two messages) in your textbook
 
 </details> 
 
-***TODO: Question 1.1:*** Run the `Sum2` program but now input a number with a decimal point. What happens, and why?
+***TODO: Question 1.1:*** Run the `Sum1` program but now input a number with a decimal point. What happens, and why?
 <br>
 <br>
 <br>
@@ -257,7 +224,8 @@ You might want to look at Section 1.6 (Displaying two messages) in your textbook
 Write a program `Sum3.java` that asks the user for two numbers and then prints the sum of the numbers. This time, the numbers should be able to contain decimal points. Below is an exmple. 
 
 ```
-$ javac Sum3.java; java Sum3
+$ javac Sum3.java
+$ java Sum3
 Please give me one number: 5.5
 Please give me a second number: 2.6
 The sum of the two numbers is 8.1
@@ -275,7 +243,8 @@ Write a madlib program called `Roses` that asks the user for 2 colors and one ad
 Below is an example of compiling and running the program:
 
 ```
-$ javac Roses.java; java Roses
+$ javac Roses.java
+$ java Roses
 color: pink
 color: azure
 adjective: funny
@@ -292,7 +261,8 @@ and so are you!
 Write a program called `Bill` that takes a user’s hotel room rate and outputs the cost of a 6% sales tax and 10.5% city tourism fee. The program should then output the total bill. Below is an example
 
 ```
-$ javac Bill.java; java Bill
+$ javac Bill.java
+$ java Bill
 Room rate: 100
 Total nights: 3
 -------------------

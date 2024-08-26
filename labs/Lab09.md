@@ -4,7 +4,7 @@ title: Interfaces
 type: Lab
 number: 09
 active_tab: lab
-release_date: 2023-11-16
+release_date: 2024-04-11
 
 ---
 
@@ -69,7 +69,7 @@ Before leaving the lab, make sure you fill out the attendance sheet and go throu
 In this lab you will be adding some features to a Bank. 
 You will be creating a file, called `MyBank.java`. By the end of this lab, you will have written a program to that implements a working Bank.
 
-**TODO:** Download the files `BankAccount.java` and `BankActions.java` from `https://bmc-cs-113.github.io/labs/lab09`.
+**TODO:** Download the files `BankAccount.java` and `BankActions.java` from `https://bmc-cs-113.github.io/labs/lab09` by appending the filename to the url. 
 
 ## 2. MyBank
 

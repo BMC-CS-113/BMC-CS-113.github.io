@@ -98,7 +98,7 @@ Yes, `psswd` is not a valid command. You should see an error message in the term
 
 #### Command Line Prompt
 All of the text thats on the left of where you are typing commands is called the `prompt`. You should notice that there are two words in the prompt that are seperated by an `@` symbol.
-For example, my prompt says `apoliak@tsunami:~$`. 
+For example, my prompt says `edinella@tsunami:~$`. 
 
 ***Exercise 2:*** What are the two words in your prompt? What does the first word indicate (the word infront of the `@`)? What does the second word indicate (the word after the `@`)?
 
@@ -150,7 +150,7 @@ On your desktop, you likely have a folder with your username. Click on that and 
 We can add arguments to the `ls` command. After typing in `ls`, type the output of the `pwd` command. For example, I would run the following command:
 
 ```
-ls /home/apoliak/
+ls /home/edinella/
 ```
 
 ***Exercise 5:*** When you run `ls` with the path to your working directory, what do you see? Do you see anything different than before when you ran just `ls`? Why or why not?

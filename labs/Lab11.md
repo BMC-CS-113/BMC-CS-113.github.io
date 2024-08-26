@@ -4,7 +4,7 @@ title: Runtime
 type: Lab
 number: 11
 active_tab: lab
-release_date: 2023-02-14
+release_date: 2024-05-01
 
 ---
 
@@ -128,7 +128,7 @@ the inner loop from bubble sort:
 ```
 void oneLoop(int[] L)
 {
-   for (int j = 0; j < L.length()-1; j++) 
+   for (int j = 0; j < L.length-1; j++) 
    {
       if (L[j] > L[j+1])
       {
@@ -173,4 +173,4 @@ In today's lab we covered run time and reviewing selection sort algorithms. This
 Great job on finishing the final lab of the semester! You've accomplished a lot this semester and should be very proud of yourself! Your course staff is very proud of you all!
 
 ### Signing out
-Before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
+Submit your answers in a .txt file on gradescope

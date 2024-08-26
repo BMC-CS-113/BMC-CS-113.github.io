@@ -50,19 +50,16 @@ Instructor
 Teaching Assistants
 : [Course Staff](staff.html) 
 
-Website 
-: [https://cs.brynmawr.edu/Courses/cs113/spring2024/](https://cs.brynmawr.edu/Courses/cs113/spring2024/)
-
 Discussion Forum
 : [Piazza](https://piazza.com/class/lr6qql9edie6ye)
+
+Code Samples From Lecture 
+: [Github](https://github.com/BMC-CS-113/class-examples-s24)
 
 Time and place
 : Spring 2024
 : TTH 12:55-2:15pm, Location: Park 231
 : Lab TH: 2:25-3:45pm, Location: Park 231
-
-Office Hours
-: <a href="{{ site.url }}{{ site.baseurl }}/office-hours.html">Times</a>
 
 Prerequisites
 : None - no prior programming background is required
@@ -73,7 +70,7 @@ Course Readings
 
 Grading
 * Homeworks: 30%
-* Labs: 10%
+* Labs: 5%
 * Midterms: 25%
 * Final: 35% 
 * Participation: 5%
