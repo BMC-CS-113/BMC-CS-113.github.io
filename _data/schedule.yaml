@@ -8,7 +8,7 @@
       assignments: 
        - 
           title: "Lab00 - CS Lab Machines 101: Command Line"
-          url: "labs/Lab00.html"
+          _url: "labs/Lab00.html"
        - 
           deadline: 2024-09-09
           title: "HW00 - Hello World, Compile Errors"
@@ -34,7 +34,7 @@
       assignments:
         - 
           title: "Lab01 - Data Types & Expressions"
-          url: "labs/Lab01.html"
+          _url: "labs/Lab01.html"
         -
           deadline: 2024-09-06
           title: "HW01 - Variables & I/O"
@@ -65,7 +65,7 @@
       assignments: 
         - 
           title: "Lab02 - I/O & Methods"
-          url: "labs/Lab02.html"
+          _url: "labs/Lab02.html"
         -
             deadline: 2024-09-23
             title: "HW02 - I/O & Methods"
@@ -93,7 +93,7 @@
       assignments: 
         - 
           title: "Lab03 - Conditionals & String Methods"
-          url: "labs/Lab03.html"
+          _url: "labs/Lab03.html"
         -
           deadline: 2024-09-30
           title: "HW03 - Conditionals, Methods, & Strings"
@@ -123,7 +123,7 @@
       assignments:
         - 
           title: "Lab04 - Recursion & Arrays"
-          url: "labs/Lab04.html"
+          _url: "labs/Lab04.html"
         -
          title: "HW04 - Arrays & Recursion"
          deadline: 2024-10-07
@@ -362,5 +362,5 @@
       assignments:
         - 
           title: "Lab11 - Runtime"
-          url: "labs/Lab11.html"
+          _url: "labs/Lab11.html"
   name: "Search & Sorting"
