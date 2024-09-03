@@ -27,7 +27,9 @@ The lecture schedule will be updated as the term progresses.
 
 ### Pre-course
 
-Make sure you are registered for the course [Gradescope](https://www.gradescope.com/) and [Piazza](https://piazza.com/brynmawr/fall2023/cmscb113).
+Make sure to fill out the [pre-course survey](https://forms.gle/uYE1Apvsj1tPhtGT9).
+
+Make sure you are registered for the course [Gradescope](https://www.gradescope.com/) and [Piazza](https://piazza.com/class/m0b1xkj0gdc1cs/).
 
 
 {% for week in site.data.schedule %}
