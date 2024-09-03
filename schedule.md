@@ -13,6 +13,9 @@ active_tab: lectures
 <div class="alert alert-info">
 
 
+You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=de796fa6-9d07-4290-9ac3-b1e0013e4b8a">
+watch recordings of the Fall 2024 lecture videos online</a>.
+<br><br>
 You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=e677a451-4536-41ae-800e-b0fa014b05d5">watch recordings of the Spring 2024 lecture videos online</a>.
 <br><br>
 You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=044d58f9-262c-4e56-a8ac-b0660147f4ec">watch recordings of the Fall 2023 lecture videos online</a>.
