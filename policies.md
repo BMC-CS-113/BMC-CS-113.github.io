@@ -26,13 +26,13 @@ More academic support, e.g. [peer mentors](https://www.brynmawr.edu/inside/offic
 The main text is a free online textbook called [ThinkJava]() that has been modified for CS113.
 
 ### Homework
-Homework assignments are a required part of the course. Homeworks will be released at the latest Sunday evenings and will be due the following Thursday evening.
+Homework assignments are a required part of the course. Homeworks will typically be released Tuesday and will be due the following Monday night.
 Each student must submit each homework independently, but you are encouraged to discuss problems with other students and course staff. 
 
 
 #### Late days
-Homeworks may be submitted a maximum of two days late. After two days, the submission will be closed and assignments will no longer be accepted. For each day your assignment is late, 10 points will be deducted.
-However, emergencies and unforeseen circumstances inevitably arise. If you are requesting an extension for an unforeseen emergency, please email the professor. Briefly state why you are requesting the extension and a proposed date for submitting the assignment. Poor planning or heavy work loads in other courses are not valid reasons for extensions.
+By default, we will not be accepting any late assignments. Because of the course's fast pace and weekly assignment schedule, it will be very easy to fall behindif you regularly submit assignments late.
+However, emergencies and unforseen circumstances inevitably arise. If you are requesting an extension for an unforseen emergency, please email Adam. Briefly state why you are requesting the extension and a proposed date for submitting the assignment. Poor planning or heavy work loads in other courses are not valid reasons for extensions.
  
 ### Labs
 There are weekly labs. The labs are designed to be a space where you will get more experience programming.

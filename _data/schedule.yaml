@@ -8,11 +8,11 @@
       assignments: 
        - 
           title: "Lab00 - CS Lab Machines 101: Command Line"
-          _url: "labs/Lab00.html"
+          url: "labs/Lab00.html"
        - 
           deadline: 2024-09-09
           title: "HW00 - Hello World, Compile Errors"
-          _url: "hws/HW00.html"
+          url: "hws/HW00.html"
         
       readings:
         -
