@@ -30,7 +30,7 @@
     -
       date: 2024-09-10
       title: Lecture 2 <br> Data Types (ints, doubles, Strings) <br> Simple I/O (input/output)
-      _slides: slides/lecture03.pdf
+      slides: slides/lecture02.pdf
       assignments:
         - 
           title: "Lab01 - Data Types & Expressions"
