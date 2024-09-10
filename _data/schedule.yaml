@@ -20,8 +20,8 @@
               #url: "https://greenteapress.com/thinkjava7/html/chapter-01.html"
     - 
       date: 2024-09-05
-      title: Lecture 2 <br> Data Types (Ints, doubles, strings)
-      slides: slides/lecture02.pdf
+      title: Lecture 2 <br> <s>Data Types (Ints, doubles, strings)</s> <br> Lecture Cancelled (sick)
+      _slides: slides/lecture02.pdf
       readings:
         -
           title: "Chapter 2: Variables & Operators"
@@ -29,16 +29,16 @@
       assignments:
     -
       date: 2024-09-10
-      title: Lecture 3 <br> I/O (input/output)
-      slides: slides/lecture03.pdf
+      title: Lecture 2 <br> Data Types (ints, doubles, Strings) <br> Simple I/O (input/output)
+      _slides: slides/lecture03.pdf
       assignments:
         - 
           title: "Lab01 - Data Types & Expressions"
           _url: "labs/Lab01.html"
         -
-          deadline: 2024-09-11
+          deadline: 2024-09-16
           title: "HW01 - Variables & I/O"
-          _url: "hws/HW01.html"
+          url: "hws/HW01.html"
           #- 
           #deadline: 2024-02-08
           #title: "HW01 - Variables & I/O"
