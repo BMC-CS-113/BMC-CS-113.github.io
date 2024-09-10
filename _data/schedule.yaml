@@ -34,7 +34,7 @@
       assignments:
         - 
           title: "Lab01 - Data Types & Expressions"
-          _url: "labs/Lab01.html"
+          url: "labs/Lab01.html"
         -
           deadline: 2024-09-16
           title: "HW01 - Variables & I/O"
