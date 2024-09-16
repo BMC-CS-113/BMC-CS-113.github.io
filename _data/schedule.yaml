@@ -65,7 +65,7 @@
       assignments: 
         - 
           title: "Lab02 - I/O & Methods"
-          _url: "labs/Lab02.html"
+          url: "labs/Lab02.html"
         -
             deadline: 2024-09-23
             title: "HW02 - I/O & Methods"

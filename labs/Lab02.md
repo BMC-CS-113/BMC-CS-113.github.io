@@ -4,7 +4,7 @@ title: Methods
 type: Lab
 number: 02
 active_tab: lab
-release_date: 2023-09-14
+release_date: 2024-09-17
 
 ---
 
