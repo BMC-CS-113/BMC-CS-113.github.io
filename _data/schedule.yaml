@@ -60,8 +60,8 @@
     - 
 
       date: 2024-09-17
-      title: Lecture 5 <br> Methods II
-      slides: slides/lecture05.pdf
+      title: Lecture <s>5</s> 4 <br> Methods II
+      slides: slides/lecture04.pdf
       assignments: 
         - 
           title: "Lab02 - I/O & Methods"
