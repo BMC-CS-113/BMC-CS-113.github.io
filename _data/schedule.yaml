@@ -50,7 +50,7 @@
     -
     
       date: 2024-09-12
-      title: Lecture 4 <br> Methods I
+      title: Lecture 3 <br> Methods I
       slides: slides/lecture03.pdf
       readings:
         -
@@ -77,8 +77,8 @@
           #url: "https://greenteapress.com/thinkjava7/html/chapter-04.html"
     - 
       date: 2024-09-19
-      title: Lecture 6 <br> Booleans & Conditionals
-      slides: slides/lecture06.pdf
+      title: Lecture 5 <br> Booleans & Conditionals
+      slides: slides/lecture05.pdf
       readings:
         -
           title: "Chapter 5: Conditionals & Logic"
@@ -88,7 +88,7 @@
             
     - 
       date: 2024-09-24
-      title:  Lecture 7 <br> Booleans & Conditionals <br> Recursion
+      title:  Lecture 6 <br> Booleans & Conditionals <br> Recursion
       #slides: slides/lecture07.pdf
       assignments: 
         - 
