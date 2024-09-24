@@ -89,7 +89,7 @@
     - 
       date: 2024-09-24
       title:  Lecture 6 <br> Booleans & Conditionals <br> Recursion
-      #slides: slides/lecture07.pdf
+      slides: slides/lecture06.pdf
       assignments: 
         - 
           title: "Lab03 - Conditionals & String Methods"
@@ -105,7 +105,7 @@
               #url: "https://greenteapress.com/thinkjava7/html/chapter-06.html"
     - 
       date: 2024-09-26
-      title: Lecture 8 <br> Recursion 
+      title: Lecture 7 <br> Recursion 
       slides: slides/lecture08.pdf
               #url: "hws/HW04.html"
           #title: "<s>Project 1 - BlackJack</s>"
@@ -118,7 +118,7 @@
 
     -
       date: 2024-10-01
-      title: Lecture 9 <br>  Strings as Objects <br> Arrays I
+      title: Lecture 8 <br>  Strings as Objects <br> Arrays I
       slides: slides/lecture09.pdf
       assignments:
         - 
