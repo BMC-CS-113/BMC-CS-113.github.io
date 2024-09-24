@@ -93,7 +93,7 @@
       assignments: 
         - 
           title: "Lab03 - Conditionals & String Methods"
-          _url: "labs/Lab03.html"
+          url: "labs/Lab03.html"
         -
           deadline: 2024-09-30
           title: "HW03 - Conditionals, Methods, & Strings"

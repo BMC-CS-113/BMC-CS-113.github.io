@@ -4,7 +4,7 @@ title: Conditionals & Strings
 type: Lab
 number: 03
 active_tab: lab
-release_date: 2023-09-21
+release_date: 2024-09-24
 
 ---
 
