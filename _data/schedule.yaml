@@ -118,8 +118,8 @@
 
     -
       date: 2024-10-01
-      title: Lecture 8 <br>  Strings as Objects <br> Arrays I
-      slides: slides/lecture09.pdf
+      title: Lecture 8 <br>  Recursing <br> Strings as Objects <br> Arrays I
+      slides: slides/lecture08.pdf
       assignments:
         - 
           title: "Lab04 - Recursion & Arrays"
