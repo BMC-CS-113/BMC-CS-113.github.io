@@ -123,11 +123,11 @@
       assignments:
         - 
           title: "Lab04 - Recursion & Arrays"
-          _url: "labs/Lab04.html"
+          url: "labs/Lab04.html"
         -
-         title: "HW04 - Arrays & Recursion"
+         title: "HW04 - Recursion"
          deadline: 2024-10-07
-         _url: "hws/HW04.html"
+         url: "hws/HW04.html"
               
       readings:
         -
