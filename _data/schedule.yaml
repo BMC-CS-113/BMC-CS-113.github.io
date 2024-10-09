@@ -154,8 +154,8 @@
           url: "labs/Lab05.html"
         -
           deadline: 2024-10-21
-          title: "HW05 - Recursion w/ Arrays & Loops"
-          _url: "hws/HW05.html"
+          title: "HW05 - Recursion w/ Arrays"
+          url: "hws/HW05.html"
               
       readings:
         -
@@ -203,6 +203,14 @@
       date: 2024-10-29
       title: Lecture 13 Arrays of Arrays 
       slides: slides/lecture14.pdf
+      assignments:
+        - 
+          title: "Lab06 - Loops and 2D arrays"
+          _url: "labs/Lab06.html"
+        - 
+          deadline: 2024-11-04
+          title: "HW06 - Board Game"
+          _url: "hws/HW07.html"
       readings:
         -
           title: "Chapter 10: Immutable Objects"
@@ -210,21 +218,10 @@
         -
           title: "Chapter 11: Mutable Objects"
           #url: "https://greenteapress.com/thinkjava7/html/chapter-10.html"
-      assignments: ~
-              
     - 
       date: 2024-10-31
       title: Lecture 14 <br>  Class Design
       slides: slides/lecture15.pdf
-      assignments:
-        - 
-          title: "Lab06 - Loops and 2D arrays"
-          _url: "labs/Lab06.html"
-        - 
-          deadline: 2024-04-04
-          title: "HW06 - Board Game"
-          _url: "hws/HW07.html"
-        
       readings:
         -
           title: "Chapter 12: Designing Classes"
@@ -233,82 +230,73 @@
 
     - 
       date: 2024-11-05
-      title: Lecture 16 <br> Arrays of Objects
+      title: Lecture 15 <br> Arrays of Objects
       slides: slides/lecture16.pdf
-      assignments: ~
-      
+      assignments:
+        - 
+          title: "Lab07 - Files and exceptions"
+          _url: "labs/Lab07.html"
+        - 
+          deadline: 2024-11-11
+          title: "HW07 - Board Game"
+          _url: "hws/HW07.html"
       readings:
         -
           title: "Chapter 13: Arrays of Ojbects (everything up to 13.7)"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-12.html"
     - 
       date: 2024-11-07
-      title:  Lecture 17 <br> Relationships! (Inheritance)
+      title:  Lecture 16 <br> Relationships! (Inheritance)
       slides: slides/lecture17.pdf
       readings:
         - 
           title: "Chapter 15: Extending Classes"
-      assignments:
-        - 
-          title: "Lab07 - Files and exceptions"
-          _url: "labs/Lab07.html"
-        
     - 
       date: 2024-11-12
-      title: Lecture 18 <br> Class Actions (Interfaces)
+      title: Lecture 17 <br> Class Actions (Interfaces)
       readings:
         -
           title: "Chapter 18.7: Interfaces"
               #url: "https://greenteapress.com/thinkjava7/html/chapter-17.html#sec206"
-      assignments: ~
-      slides: slides/lecture18.pdf
-      
-        
-    - 
-      date: 2024-11-14
-      title: Lecture 19 <br> NO CLASS (EMNLP CONFERENCE)
-      slides: slides/lecture19.pdf
-      readings:
-        -
-            title: "Chapter 13.8: Binary Search"
-
       assignments:
         - 
           title: "Lab08 - Class Design"
           _url: "labs/Lab08.html"
         -
-          deadline: 2024-04-11
-          title: "HW07 - Class design"
+          deadline: 2024-11-18
+          title: "HW08 - Class design"
           _url: "hws/HW08.html"
-
-      
+      slides: slides/lecture18.pdf
+    - 
+      date: 2024-11-14
+      title: Lecture 18 <br> NO CLASS (EMNLP CONFERENCE)
+      slides: slides/lecture19.pdf
+      readings:
+        -
+            title: "Chapter 13.8: Binary Search"
     - 
       date: 2024-11-19
-      title:  Lecture 20 <br> Binary Search
+      title:  Lecture 18 <br> Binary Search
       #slides: slides/lecture21.pdf
       readings: 
         -
             title: "Chapter 13.8: Binary Search"
-
-      assignments: ~
-      
-    - 
-      date: 2024-11-21
-      title: Lecture 21 <br> Sorting I
-      slides: slides/lecture21.pdf
-      readings:
-        -
-          title: "Chapter 14: Objects of Arrays"
-
       assignments: 
         - 
           title: "Lab09 - Interfaces"
           _url: "labs/Lab09.html"
         - 
           title: "HW08 - OOP"
-          deadline: 2024-04-18
+          deadline: 2024-11-25
           _url: "hws/HW09.html"
-    
+    - 
+      date: 2024-11-21
+      title: Lecture 19 <br> Sorting I
+      slides: slides/lecture21.pdf
+      readings:
+        -
+          title: "Chapter 14: Objects of Arrays"
+
     - 
       date: 2024-11-26
       title:  Lecture 22 <br> Midterm Review I 
@@ -316,7 +304,7 @@
 
     - 
       date: 2024-11-28
-      title: THANKSGIVING <br> Lecture 23 <br> Midterm Review
+      title: THANKSGIVING <br> NO CLASS 
       readings: ~
       assignments: 
         -
