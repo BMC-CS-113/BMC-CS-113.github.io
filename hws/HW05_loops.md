@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Recursion & Arrays
+title: Loops
 type: Homework
 number: 05
 active_tab: homework
-release_date: 2024-10-09
-due_date: 2024-10-22 23:59:00EDT
+release_date: 2023-10-09
+due_date: 2023-10-21 23:59:00EDT
 
 ---
 
@@ -54,7 +54,7 @@ You can download the materials for this assignment here:
 {{page.type}} {{page.number}}: {{page.title}}
 =============================================================
 
-In this assignment you will be getting more experience with recursion. You will implement the following methods using recursion.
+In this assignment you will be working with loops. You will be implementing the following methods using loops. 
 
 > Requirements:
 > 
@@ -70,53 +70,78 @@ In this assignment you will be getting more experience with recursion. You will 
 
 > **IF YOUR CODE DOES NOT COMPILE ON GRADESCOPE, YOU WILL NOT RECEIVE ANY POINTS FROM THE AUTOGRADER**. When you submit, make sure to check if the autograder compiles and if you test some of the public test cases.
 
-## Arrays
 
-In a file called `ArraysRecursion.java`, write the following methods.
+## 1. Numbers
 
-### 1 isPalindrome
+
+Write a program called `NumbersLoops.java` that implements the following methods. Make sure to test the methods in the file's main method.
+
+### 1.1 Previous even
+
+Write a method called `previousEven` that takes in an integer and prints out all the previous even numbers.  Implement this method using a **for loop**.
+
+For example, `previousEven(6)` should print out `6 4 2`, `previousEven(9)` should print out `8 6 4 2 `. Make sure to put a space between the numbers and print all the numbers on one line. 
+
+It is ok if there is a space after the `2`.
+
+### 1.2 Previous odd
+
+Write a method called `previousOdd` that takes in an integer and prints out all the previous odd numbers.
+Implement this method using a **while loop**.
+
+For example, `previousOdd(6)` should print out `5 3 1`, `previousOdd(9)` should print out `9 7 5 3 1`. Make sure to put a space between the numbers and print all the numbers on one line. 
+
+It is ok if there is a space after the `2`.
+
+
+## 2. Playing with Words!
+
+Write a program called `WordsLoops.java` that implements the following methods. Make sure to test the methods in the file's main method.
+
+ 
+> **Hint**: You will want to use some of the `String` methods covered in Lab02 and Lab03.
+
+### 2.1 removeLetter
+
+Write a method called `removeLetter` that takes in a String and a letter and returns the String but will all instances of that letter removed. Implement this method using a **for loop**.
+
+For example, `removeLetter("asdfghsassaaaae", 'a')` should return `sdfghssse`.
+
+### 2.2 removeLetters
+
+Write a method called `removeLetters` that takes in a String and an array of letters and returns the String but will all instances of the letters removed. Implement this method using a **while loop**.
+
+For example, `removeLetter("asdfghsassaaaae", ['a','s'])` should return `dfghe`.
+
+Your method can called `removeLetters` from 2.1
+
+
+### 2.3 generateRandWord
+
+Write a method called `generateRandWord` that takes in an integer and returns a word of that length of random letters from `a-z`. 
+Each character should be chosen at random.
+You can choose to use either a **while loop** or a **for loop**
+
+
+
+## 3. Arrays
+
+In a file called `ArraysLoops.java`, write the following methods.
+
+### 3.1 isPalindrome
 
 A palindrome is a word (or an ordered collection) that is the same backwords. For example, `madam` and `"a man, a plan, a canal – Panama` are both palindromes.
 
-#### 1.1 isPalindrome characters
-
 Write a method called `isPalindrome` that takes in an array of characters and returns true if the array is a palindrome. If the array is empty, the method should return `true` since that technically is a palindrome.
 
-> Note, do not solve this by reversing the array and then comparing the two arrays.
 
-#### 1.2 isPalindrome integers
+### 3.2 locationOf
+Write a method called `locationOf` that takes in an array of integers, a specific integer, and returns the last index of where that integer appears in the array. If the integer is not in the array, return `-1.`
+You can choose to use a **for loop** or a **while loop**.
 
-Write a method called `isPalindrome` that takes in an array of integers and returns true if the array is a palindrome. If the array is empty, the method should return `true`.
-
-> Note, do not solve this by reversing the array and then comparing the two arrays.
-
-
-### 2. Sorted
-
-Write a method caled `isSorted` that takes in an array of integers and a boolean and determines if the list of numbers is sorted. If the boolean parameter is `true`, then the method should check if the numbers are sorted in ascending order (1234), if the parameter is `false`, then the method should check if the numbers are sorted in descending order (4321).  
+For example `locationOf({2,4,5,1,5}, 5)` would return `4` and `locationOf({2,4,5,1,5}, 9)` would return `-1`.
 
 
-### 3. removeLetters 
-
-Write a method called `removeLetters` that takes in a String and an array of letters and returns the String but with all instances of the letters removed.
-
-For example, `removeLetters("asdfghsassaaaae", ['a','s'])` should return `dfghe`.
-
-Your method can use `removeLetter` from the last assignment.
-
-
-### 4. countOccurrences
-
-Write a recursive method called `countOccurrences` that takes in an array of integers and a target integer, and returns how many times the target integer appears in the array.
-
-For example, `countOccurrences([1, 2, 3, 2, 4, 2], 2)` should return 3.
-
-### 5. power
-
-Write a recursive method called `power` that takes in an array of double and an integer n and returns a new array
-where every double $$x$$ in the original array is $$x^n$$. You are not allowed to use the `power` from the `Math` library or the `**` operator.
-
-<i>Hint:</i> you will likely want to create a recursive method `power` that takes in a double x and a integer n and returns $$x^n$$.
 
 ## README.txt
 
