@@ -163,6 +163,7 @@
     - 
       date: 2024-10-10
       title:  Lecture 10 <br> Loops 
+      slides: slides/lecture10.pdf
       assignments:
       readings:
         -
@@ -209,7 +210,7 @@
           _url: "labs/Lab06.html"
         - 
           deadline: 2024-11-04
-          title: "HW06 - Board Game"
+          title: "HW06 - Loops"
           _url: "hws/HW07.html"
       readings:
         -
