@@ -181,7 +181,11 @@
     - 
       date: 2024-10-15
       title: FALL BREAK 
-      assignments: ~
+      assignments:
+        -
+         title: "HW06 - BlackJack (optional)"
+         deadline: 2024-10-28
+         url: "hws/HW06.html"
       readings: ~
     - 
       date: 2024-10-17
@@ -210,7 +214,7 @@
           _url: "labs/Lab06.html"
         - 
           deadline: 2024-11-04
-          title: "HW06 - Loops"
+          title: "HW07 - Loops"
           _url: "hws/HW07.html"
       readings:
         -
@@ -239,7 +243,7 @@
           _url: "labs/Lab07.html"
         - 
           deadline: 2024-11-11
-          title: "HW07 - Board Game"
+          title: "HW08 - Board Game"
           _url: "hws/HW07.html"
       readings:
         -
@@ -265,8 +269,8 @@
           _url: "labs/Lab08.html"
         -
           deadline: 2024-11-18
-          title: "HW08 - Class design"
-          _url: "hws/HW08.html"
+          title: "HW09 - Class design"
+          _url: "hws/HW10.html"
       slides: slides/lecture18.pdf
     - 
       date: 2024-11-14
@@ -289,7 +293,7 @@
         - 
           title: "HW08 - OOP"
           deadline: 2024-11-25
-          _url: "hws/HW09.html"
+          _url: "hws/HW10.html"
     - 
       date: 2024-11-21
       title: Lecture 19 <br> Sorting I
@@ -339,7 +343,7 @@
       assignments:
         - 
           deadline: 2024-05-07
-          title: "HW09 - SuperDuper Array"
+          title: "HW11 - SuperDuper Array"
           _url: "hws/HW10.html"
     - 
       date: 2024-12-12
