@@ -215,7 +215,7 @@
         - 
           deadline: 2024-11-04
           title: "HW07 - Loops"
-          _url: "hws/HW07.html"
+          url: "hws/HW07.html"
       readings:
         -
           title: "Chapter 10: Immutable Objects"
