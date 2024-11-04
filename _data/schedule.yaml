@@ -244,7 +244,7 @@
         - 
           deadline: 2024-11-11
           title: "HW08 - Board Game"
-          _url: "hws/HW07.html"
+          url: "hws/HW08.html"
       readings:
         -
           title: "Chapter 13: Arrays of Ojbects (everything up to 13.7)"
