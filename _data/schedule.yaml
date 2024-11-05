@@ -236,7 +236,7 @@
     - 
       date: 2024-11-05
       title: Lecture 15 <br> Arrays of Objects
-      slides: slides/lecture16.pdf
+      slides: slides/lecture15.pdf
       assignments:
         - 
           title: "Lab07 - Files and exceptions"
