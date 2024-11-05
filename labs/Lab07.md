@@ -4,7 +4,7 @@ title: Exceptions & Files
 type: Lab
 number: 07
 active_tab: lab
-release_date: 2024-03-28
+release_date: 2024-11-05
 
 ---
 
@@ -56,7 +56,7 @@ _credit: Dianna Xu_
 
 The main goals for this lab are for you to get more comfortable working with files and understanding Exceptions, In this lab we are going to implement some terminal programs that work with text files! 
 
-Make sure to have a TA sign off your lab by the HW07 deadline
+Make sure to have a TA sign off your lab by the HW08 deadline
 
 ### Paired Programming rules
 
@@ -248,7 +248,7 @@ at InputErrorDemo.main(Crash2.java:10)
 ```
 </details>
 
-
+<br><br>
 Can you guess why that happens?
 
 Notice, the error is occurring at line 10 of your program. That is the line where you are trying to convert
