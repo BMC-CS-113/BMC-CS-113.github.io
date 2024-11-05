@@ -240,7 +240,7 @@
       assignments:
         - 
           title: "Lab07 - Files and exceptions"
-          _url: "labs/Lab07.html"
+          url: "labs/Lab07.html"
         - 
           deadline: 2024-11-11
           title: "HW08 - Board Game"
