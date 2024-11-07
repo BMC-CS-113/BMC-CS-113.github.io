@@ -252,7 +252,7 @@
     - 
       date: 2024-11-07
       title:  Lecture 16 <br> Relationships! (Inheritance)
-      slides: slides/lecture17.pdf
+      slides: slides/lecture16.pdf
       readings:
         - 
           title: "Chapter 15: Extending Classes"
