@@ -274,14 +274,14 @@
       slides: slides/lecture17.pdf
     - 
       date: 2024-11-14
-      title: Lecture 18 <br> NO CLASS (EMNLP CONFERENCE)
+      title: Lecture 18 <br> Catch up
       slides: slides/lecture19.pdf
       readings:
         -
             title: "Chapter 13.8: Binary Search"
     - 
       date: 2024-11-19
-      title:  Lecture 18 <br> Binary Search
+      title:  Lecture 19 <br> Binary Search
       #slides: slides/lecture21.pdf
       readings: 
         -
@@ -296,7 +296,7 @@
           _url: "hws/HW10.html"
     - 
       date: 2024-11-21
-      title: Lecture 19 <br> Sorting I
+      title: Lecture 20 <br> Sorting I
       slides: slides/lecture21.pdf
       readings:
         -
@@ -304,20 +304,20 @@
 
     - 
       date: 2024-11-26
-      title:  Lecture 22 <br> Midterm Review I 
+      title:  Lecture 21 <br> Sorting II
       slides: slides/lecture22.pdf
+      assignments: 
+        -
+            title: "Lab: Sorting"
 
     - 
       date: 2024-11-28
       title: THANKSGIVING <br> NO CLASS 
       readings: ~
-      assignments: 
-        -
-            title: "No Lab - Extra Credit Opportunity"
       
     - 
       date: 2024-12-03
-      title: Midterm II
+      title: Lecture 23 <br> Midterm Review
       slides: slides/lecture23.pdf
       readings: ~
 
@@ -328,7 +328,7 @@
     
     - 
       date: 2024-12-05
-      title: Lecture 25 <br> Run time
+      title: Lecture 24 <br> Midterm
       slides: slides/lecture25.pdf
       assignments:
         - 
