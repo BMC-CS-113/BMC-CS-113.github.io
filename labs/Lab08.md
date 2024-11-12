@@ -4,7 +4,7 @@ title: Designing classes
 type: Lab
 number: 08
 active_tab: lab
-release_date: 2023-11-09
+release_date: 2024-11-11
 
 ---
 

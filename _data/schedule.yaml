@@ -266,7 +266,7 @@
       assignments:
         - 
           title: "Lab08 - Class Design"
-          _url: "labs/Lab08.html"
+          url: "labs/Lab08.html"
         -
           deadline: 2024-11-18
           title: "HW09 - Class design"
