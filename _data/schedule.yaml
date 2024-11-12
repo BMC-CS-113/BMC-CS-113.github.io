@@ -270,8 +270,8 @@
         -
           deadline: 2024-11-18
           title: "HW09 - Class design"
-          _url: "hws/HW10.html"
-      slides: slides/lecture18.pdf
+          url: "hws/HW09.html"
+      slides: slides/lecture17.pdf
     - 
       date: 2024-11-14
       title: Lecture 18 <br> NO CLASS (EMNLP CONFERENCE)
