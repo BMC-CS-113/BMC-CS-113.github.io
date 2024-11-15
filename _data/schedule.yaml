@@ -291,9 +291,9 @@
           title: "Lab09 - Interfaces"
           _url: "labs/Lab09.html"
         - 
-          title: "HW08 - OOP"
+          title: "HW10 - OOP"
           deadline: 2024-11-25
-          _url: "hws/HW10.html"
+          url: "hws/HW10.html"
     - 
       date: 2024-11-21
       title: Lecture 20 <br> Sorting I
