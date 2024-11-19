@@ -289,10 +289,10 @@
       assignments: 
         - 
           title: "Lab09 - Interfaces"
-          _url: "labs/Lab09.html"
+          url: "labs/Lab09.html"
         - 
           title: "HW10 - OOP"
-          deadline: 2024-11-25
+          deadline: 2024-11-27
           url: "hws/HW10.html"
     - 
       date: 2024-11-21
@@ -308,7 +308,8 @@
       slides: slides/lecture22.pdf
       assignments: 
         -
-            title: "Lab: Sorting"
+            title: "Lab10: Sorting"
+            _url: "labs/Lab11.html"
 
     - 
       date: 2024-11-28
@@ -330,21 +331,16 @@
       date: 2024-12-05
       title: Lecture 24 <br> Midterm
       slides: slides/lecture25.pdf
-      assignments:
-        - 
-          title: "Lab10 - Sorting"
-          _url: "labs/Lab10.html"
-        - 
-          title: "Lab11 - Runtime"
-          _url: "labs/Lab11.html"
-
     - 
       date: 2024-12-10
       assignments:
         - 
           deadline: 2024-05-07
           title: "HW11 - SuperDuper Array"
-          _url: "hws/HW10.html"
+          _url: "hws/HW11.html"
+        - 
+          title: "Lab11 - Runtime"
+          _url: "labs/Lab11.html"
     - 
       date: 2024-12-12
       title: Lecture 26 <br> Final Review
