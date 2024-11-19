@@ -1,8 +1,8 @@
-/** Driver program for CS 113 HW 09, Fall 2023.
+/** Driver program for CS 113 HW 10, Fall 2024.
  *  Your goal for this assignment is
  *  to get this driver to compile and run correctly.
  */
-public class HW08Driver {
+public class HW10Driver {
    
    /** Main driver method.
     * @param args the arguments (not used)
