@@ -73,7 +73,7 @@ You will be creating a file, called `MyBank.java`. By the end of this lab, you w
 
 ## 2. MyBank
 
-Create a new class called `MyBank`. The class should contain the following instance methods:
+Create a new class called `MyBank`. The class should contain the following instance variables:
 
 - array of BankAccounts as an instance variable. 
 - a name of the bank.
