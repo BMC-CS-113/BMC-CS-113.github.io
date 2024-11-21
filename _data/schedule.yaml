@@ -297,14 +297,14 @@
     - 
       date: 2024-11-21
       title: Lecture 20 <br> Sorting I
-      slides: slides/lecture21.pdf
+      slides: slides/lecture20.pdf
       readings:
         -
           title: "Chapter 14: Objects of Arrays"
 
     - 
       date: 2024-11-26
-      title:  Lecture 21 <br> Sorting II
+      title:  Lecture 21 <br> Sorting II<br> Runtime Analysis
       slides: slides/lecture22.pdf
       assignments: 
         -
