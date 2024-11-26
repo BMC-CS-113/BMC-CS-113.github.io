@@ -4,7 +4,7 @@ title: Sorting
 type: Lab
 number: 10
 active_tab: lab
-release_date: 2024-04-25
+release_date: 2024-11-25
 
 ---
 
@@ -968,7 +968,7 @@ We have provided the solution in SelectionSolution.java. You can access the <a h
 
 ## Wrap up
 
-In today's lab we covered two sorting algorithms. This will help you for HW10.
+In today's lab we covered two sorting algorithms. This will help you for your last homework.
 
 ### Signing out
 Before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
