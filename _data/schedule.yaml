@@ -305,7 +305,7 @@
     - 
       date: 2024-11-26
       title:  Lecture 21 <br> Sorting II<br> Runtime Analysis
-      slides: slides/lecture22.pdf
+      slides: slides/lecture21.pdf
       assignments: 
         -
             title: "Lab10: Sorting"
