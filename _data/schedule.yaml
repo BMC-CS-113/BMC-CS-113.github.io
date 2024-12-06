@@ -331,13 +331,14 @@
       date: 2024-12-05
       title: Lecture 24 <br> Midterm
       slides: slides/lecture25.pdf
-    - 
-      date: 2024-12-10
       assignments:
         - 
           deadline: 2024-12-12
           title: "HW11 - SuperDuper Array"
-          _url: "hws/HW11.html"
+          url: "hws/HW11.html"
+    - 
+      date: 2024-12-10
+      assignments:
         - 
           title: "Lab11 - Runtime"
           _url: "labs/Lab11.html"
