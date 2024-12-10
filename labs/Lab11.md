@@ -76,7 +76,7 @@ as either:
 - O(log(N)) 
 - O(N)
 - O(N log(N))
-- O($N^2$)
+- O($$N^2$$)
 
 ### 1.1 Example 1
 
