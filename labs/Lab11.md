@@ -173,4 +173,4 @@ In today's lab we covered run time and reviewing selection sort algorithms. This
 Great job on finishing the final lab of the semester! You've accomplished a lot this semester and should be very proud of yourself! Your course staff is very proud of you all!
 
 ### Signing out
-Submit your answers in a .txt file on gradescope
+Before leaving, make sure your TA/instructor have signed you out of the lab. If you finish the lab early, you are free to go.
