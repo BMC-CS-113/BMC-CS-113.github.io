@@ -329,8 +329,7 @@
     
     - 
       date: 2024-12-05
-      title: Lecture 24 <br> Midterm
-      slides: slides/lecture25.pdf
+      title: Lecture 23 <br> Midterm
       assignments:
         - 
           deadline: 2024-12-12
@@ -338,10 +337,12 @@
           url: "hws/HW11.html"
     - 
       date: 2024-12-10
+      title: Lecture 24 <br> Runtime
+      slides: slides/lecture24.pdf
       assignments:
         - 
           title: "Lab11 - Runtime"
-          _url: "labs/Lab11.html"
+          url: "labs/Lab11.html"
     - 
       date: 2024-12-12
       title: Lecture 26 <br> Final Review
